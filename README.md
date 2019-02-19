@@ -1,1 +1,1 @@
-# SV_mining_SM
+# Genomics_Data_Vizualization
