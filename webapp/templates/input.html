@@ -1,0 +1,39 @@
+<head>
+<style>
+html, body {
+    height: 100%;
+}
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    display: table-cell;
+    background-color:  #FFFFF0;
+    vertical-align: middle;
+}
+* {
+   font-family: 'GoMonoRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+form {
+    border: 2px solid green;
+}
+</style>
+</head>
+<html>
+   <body>
+   Please input your information.<br>
+   Once you click "submit", the anaylsis will run.<br>
+   Please give it some time and don't refresh!
+      <form action = "http://localhost:5000/result" method = "POST">
+         <p> File name <input type = "file" name="dataFile" /></p>
+         <p> Family ID <input type = "text" name = "familyID" /></p>
+         <!--<p> Open-Cravat<input type = "checkbox" name = "useOpenCravat" /></p>-->
+         <!--<p> ANNOVAR<input type = "checkbox" name = "useAnnovar"/></p>-->
+         <!--<p> Parameter Input<input type = "file" name="paramFile" /></p>-->
+         <p><input type = "submit" value = "submit" /></p>
+      </form>
+   </body>
+</html>
