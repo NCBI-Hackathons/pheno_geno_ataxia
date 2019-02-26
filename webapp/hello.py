@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from user_query import user_input_from_gui
+from extract_data_from_sqlite import sqlite_to_tsv
 
 app = Flask(__name__)
 import os, os.path
@@ -45,18 +46,10 @@ def analysis():
             t.start()
         for t in threads:
             t.join()
-        sqlFile = result.get("dataFile") + ".sqlite"
-        print(os.getcwd())
-        with sqlite3.connect(sqlFile) as connection:
-          csvWriter = csv.writer(open("cravatOutput.tsv", "w"), delimiter='\t',)
-          c = connection.cursor()
-
-          rows = c.fetchall()
-
-          for x in rows:
-              csvWriter.writerows(x)
+        sqlName = result.get("dataFile") + ".sqlite"
+        sqlite_to_tsv(sqlName,"cravat.tsv")
         return render_template(
-        "ran.html", program="All", familyID=result.get("familyID")
+            "ran.html", program="All", familyID=result.get("familyID")
         )
 
 
