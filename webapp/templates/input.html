@@ -1,39 +1,110 @@
 <head>
-<style>
-html, body {
-    height: 100%;
-}
-html {
-    display: table;
-    margin: auto;
-}
-body {
-    display: table-cell;
-    background-color:  #FFFFF0;
-    vertical-align: middle;
-}
-* {
-   font-family: 'GoMonoRegular';
-   font-weight: normal;
-   font-style: normal;
-}
-form {
-    border: 2px solid green;
-}
-</style>
+    <style type="text/css">
+     * {
+     font-family: Georgia, "Times New Roman", Times, serif;
+     }
+     h1{color: #495C70;}
+     html, body {
+         height: 100%;
+     }
+     html {
+         display: table;
+         margin: auto;
+     }
+     body {
+         display: table-cell;
+         background-color:  #FFFFF0;
+         vertical-align: middle;
+     }
+     .form-style-4{
+         margin: auto;
+         vertical-align: middle;
+         width: 450px;
+         font-size: 16px;
+         background: #495C70;
+         padding: 30px 30px 15px 30px;
+         border: 5px solid #53687E;
+     }
+     .form-style-4 input[type=submit],
+     .form-style-4 input[type=button],
+     .form-style-4 input[type=text],
+     .form-style-4 input[type=email],
+     .form-style-4 textarea,
+     .form-style-4 label
+     {
+         font-size: 16px;
+         color: #fff;
+
+     }
+     .form-style-4 label {
+         display:block;
+         margin-bottom: 10px;
+     }
+     .form-style-4 label > span{
+         display: inline-block;
+         float: left;
+         width: 150px;
+     }
+     .form-style-4 input[type=text],
+     .form-style-4 input[type=email] 
+     {
+         background: transparent;
+         border: none;
+         border-bottom: 1px dashed #83A4C5;
+         width: 275px;
+         outline: none;
+         padding: 0px 0px 0px 0px;
+         font-style: italic;
+     }
+     .form-style-4 textarea{
+         font-style: italic;
+         padding: 0px 0px 0px 0px;
+         background: transparent;
+         outline: none;
+         border: none;
+         border-bottom: 1px dashed #83A4C5;
+         width: 275px;
+         overflow: hidden;
+         resize:none;
+         height:20px;
+     }
+
+     .form-style-4 textarea:focus, 
+     .form-style-4 input[type=text]:focus,
+     .form-style-4 input[type=email]:focus,
+     .form-style-4 input[type=email] :focus
+     {
+         border-bottom: 1px dashed #D9FFA9;
+     }
+
+     .form-style-4 input[type=submit],
+     .form-style-4 input[type=button]{
+         background: #576E86;
+         border: none;
+         padding: 8px 10px 8px 10px;
+         border-radius: 5px;
+         color: #A8BACE;
+     }
+     .form-style-4 input[type=submit]:hover,
+     .form-style-4 input[type=button]:hover{
+         background: #394D61;
+     }
+    </style>
 </head>
 <html>
-   <body>
-   Please input your information.<br>
-   Once you click "submit", the anaylsis will run.<br>
-   Please give it some time and don't refresh!
-      <form action = "http://localhost:5000/result" method = "POST">
-         <p> File name <input type = "file" name="dataFile" /></p>
-         <p> Family ID <input type = "text" name = "familyID" /></p>
-         <!--<p> Open-Cravat<input type = "checkbox" name = "useOpenCravat" /></p>-->
-         <!--<p> ANNOVAR<input type = "checkbox" name = "useAnnovar"/></p>-->
-         <!--<p> Parameter Input<input type = "file" name="paramFile" /></p>-->
-         <p><input type = "submit" value = "submit" /></p>
-      </form>
-   </body>
+    <body>
+        <h1> Geno->Pheno</h1>
+        <form class="form-style-4" action = "http://localhost:5000/result" method = "POST">
+            <br>
+            <label for="field1" >
+                <span>File Name</span><input type ="file" name="dataFile" required="true" />
+            </label>
+            <label for="field1" >
+                <span>Family ID</span><input type ="text" name="familyID" required="true" />
+            </label>
+            <label>
+            <span> </span><input type="submit" value="Start Analysis "/>
+            </label>
+        </form>
+    </body>
 </html>
