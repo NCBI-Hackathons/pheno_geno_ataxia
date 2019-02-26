@@ -1,8 +1,10 @@
 from flask import Flask, render_template, request
+from user_query import user_input_from_gui
 
 app = Flask(__name__)
-import os
+import os, os.path
 import threading
+import errno
 
 
 @app.route("/")
@@ -16,8 +18,27 @@ def analysis():
         result = request.form
         threads = []
         threads.append(
-            threading.Thread(cravat(result.get("dataFile"), result.get("familyID")))
+            threading.Thread(
+                target=cravat, args=(result.get("dataFile"), result.get("familyID"))
+            )
         )
+        if result.get("maxVal") is not None:
+            threads.append(
+                threading.Thread(
+                    target=bari,
+                    args=(
+                        result.get("minVal"),
+                        result.get("familyID"),
+                        result.get("maxVal"),
+                    ),
+                )
+            )
+        else:
+            threads.append(
+                threading.Thread(
+                    target=bari, args=(result.get("minVal"), result.get("familyID"))
+                )
+            )
         for t in threads:
             t.start()
         for t in threads:
@@ -40,6 +61,17 @@ def anovar():
     return render_template(
         "ran.html", program="Anovar", familyID=result.get("familyID")
     )
+
+
+def bari(minVal, upperDir, maxVal="NO"):
+    try:
+        os.makedirs(upperDir)
+    except OSError as exc:
+        if exc.errno == errno.EEXIST and os.path.isdir(upperDir):
+            pass
+        else:
+            raise
+    user_input_from_gui(float(minVal), upperDir, float(maxVal))
 
 
 if __name__ == "__main__":
