@@ -1,5 +1,7 @@
 # Phenotype_Genotype_Ataxia
 
+[project overview](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/genotype-phenotype_tool.png "Logo Title Text 1")
+
 This project is a tool-kit used to analyze the role of multifactorial inheritance  in rare disease. There is currently unaccounted for variation in the severity of rare disease phenotypes, some of which will be explainable by modifier alleles. The goal of this project is to provide a tool-kit that can be used to identify the genes that are modulating disease phenotypes.
 
 The first step to identifying the disease phenotype modulating genes is to reduce the search space. The user can filter the genes based on the likihood that a gene is involved in the phenotye. Currently the residual variation intolerance scores and the polyphen scores may be used to filter genes based on how intolerant the gene is to mutations and the predicted impact of the mutation. The user may also filter the genes based on gene ontology annotation to restrict the search to genes involved in particular pathways or functions. 
@@ -20,6 +22,8 @@ Download and install [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/u
 Move the `.vcf` files into the `/webapp/` directory.
 If you have e.g. `python3.7`, run `python3.7 hello.py`. This will start the web-server on `http://localhost:5000/`.
 
+## Program Logic and Design
+[project overview](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/programFlow.png "Logo Title Text 1")
 
 ## Future work
 Gene ontology over-representation analysis on genes or variants identifed as likely harmful.
