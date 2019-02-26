@@ -1,6 +1,6 @@
 # Phenotype_Genotype_Ataxia
 
-(https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/genotype-phenotype_tool.png "Logo Title Text 1")
+![flow](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/genotype-phenotype_tool.png "Logo Title Text 1")
 
 This project is a tool-kit used to analyze the role of multifactorial inheritance  in rare disease. There is currently unaccounted for variation in the severity of rare disease phenotypes, some of which will be explainable by modifier alleles. The goal of this project is to provide a tool-kit that can be used to identify the genes that are modulating disease phenotypes.
 
@@ -23,7 +23,7 @@ Move the `.vcf` files into the `/webapp/` directory.
 If you have e.g. `python3.7`, run `python3.7 hello.py`. This will start the web-server on `http://localhost:5000/`.
 
 ## Program Logic and Design
-[project overview](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/programFlow.png "Logo Title Text 1")
+![project overview](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/programFlow.png "Logo Title Text 1")
 
 ## Future work
 Gene ontology over-representation analysis on genes or variants identifed as likely harmful.
