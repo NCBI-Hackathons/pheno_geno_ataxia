@@ -1,13 +1,18 @@
 # Phenotype_Genotype_Ataxia
+
+This project is a tool-kit used to analyze the role of multifactorial inheritance  in rare disease. There is currently unaccounted for variation in the severity of rare disease phenotypes, some of which will be explainable by modifier alleles. The goal of this project is to provide a tool-kit that can be used to identify the genes that are modulating disease phenotypes.
+
+The first step to identifying the disease phenotype modulating genes is to reduce the search space. The user can filter the genes based on the likihood that a gene is involved in the phenotye. Currently the residual variation intolerance scores and the polyphen scores may be used to filter genes based on how intolerant the gene is to mutations and the predicted impact of the mutation. The user may also filter the genes based on gene ontology annotation to restrict the search to genes involved in particular pathways or functions. 
+
+After filtering the user can use the apriori algorithm to search for combinations of genes that are frequently identifed as having harmful mutations in individuals with the disease phenotype. The apriori algorithm may also be used to identying combinations of alleles that are frequently identified in individuals with the disease phenotype. 
+
+Gene ontology over-representation may also be calculated on the genes idenfied as likely to have harmful mutations.
 ## Features
 This program generates a web-server that allows the user to upload a `.vcf` file and analyze it using several tools ([Open-Cravat](https://github.com/KarchinLab/open-cravat/wiki), [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/), and some custom scripts.)
 ## Pre-Requisites
-Need to have Python >= 3.5. Install most of the prerequisites through `pip`:
-```
-pip3 install open-cravat flask efficient-apriori
-cravat-admin install-base
-```
-Download and install [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/download/).
+Need to have Python > 3.5.
+Install Open-Cravat, ANNOVAR, Flask.
+Requires the python package efficient-apriori which can be installed with: pip install efficient-apriori
 
 ## Running the Program
 Move the `.vcf` files into the `/webapp/` directory.
