@@ -2,9 +2,12 @@
 ## Features
 This program generates a web-server that allows the user to upload a `.vcf` file and analyze it using several tools ([Open-Cravat](https://github.com/KarchinLab/open-cravat/wiki), [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/), and some custom scripts.)
 ## Pre-Requisites
-Need to have Python > 3.5.
-Install Open-Cravat, ANNOVAR, Flask.
-Requires the python package efficient-apriori which can be installed with: pip install efficient-apriori
+Need to have Python >= 3.5. Install most of the prerequisites through `pip`:
+```
+pip3 install open-cravat flask efficient-apriori
+cravat-admin install-base
+```
+Download and install [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/download/).
 
 ## Running the Program
 Move the `.vcf` files into the `/webapp/` directory.
