@@ -5,6 +5,8 @@ app = Flask(__name__)
 import os, os.path
 import threading
 import errno
+import sqlite3
+import csv
 
 
 @app.route("/")
@@ -43,8 +45,18 @@ def analysis():
             t.start()
         for t in threads:
             t.join()
+        sqlFile = result.get("dataFile") + ".sqlite"
+        print(os.getcwd())
+        with sqlite3.connect(sqlFile) as connection:
+          csvWriter = csv.writer(open("cravatOutput.tsv", "w"), delimiter='\t',)
+          c = connection.cursor()
+
+          rows = c.fetchall()
+
+          for x in rows:
+              csvWriter.writerows(x)
         return render_template(
-            "ran.html", program="All", familyID=result.get("familyID")
+        "ran.html", program="All", familyID=result.get("familyID")
         )
 
 

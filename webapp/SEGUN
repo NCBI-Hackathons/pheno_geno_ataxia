@@ -1,0 +1,5 @@
+run 1_download_databases.sh
+makes humandb in same directory
+format VCF:
+run 2_myTable_annot.sh
+
