@@ -1,0 +1,3 @@
+association	confidence	support	lift	conviction
+{gene5}->{gene1}	1.0	0.8	1.25	199999999.99999994
+{gene1}->{gene5}	1.0	0.8	1.25	199999999.99999994

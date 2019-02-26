@@ -1,0 +1,6 @@
+patient1	gene1,gene2,gene3,gene4,gene5
+patient2	gene1,gene5
+patient3	gene6,gene7
+patient4	gene1,gene5
+patient5	gene1,gene5,gene3
+
