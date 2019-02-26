@@ -1,6 +1,6 @@
 # Phenotype_Genotype_Ataxia
 
-[project overview](https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/genotype-phenotype_tool.png "Logo Title Text 1")
+(https://github.com/NCBI-Hackathons/pheno_geno_ataxia/blob/master/genotype-phenotype_tool.png "Logo Title Text 1")
 
 This project is a tool-kit used to analyze the role of multifactorial inheritance  in rare disease. There is currently unaccounted for variation in the severity of rare disease phenotypes, some of which will be explainable by modifier alleles. The goal of this project is to provide a tool-kit that can be used to identify the genes that are modulating disease phenotypes.
 
