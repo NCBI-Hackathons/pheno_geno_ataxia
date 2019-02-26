@@ -1,0 +1,491 @@
+base__hugo	base__num_variants	base__so	base__all_so	base__note	pubmed__n	pubmed__term	uniprot__acc
+AAR2	50	INT	INT(39),2KU(11)				Q9Y312[WEB:]https://www.uniprot.org/uniprot/Q9Y312
+ABHD12	186	MIS	MIS(1),SYN(2),INT(173),2KU(6),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ABHD12[TIAB] AND cancer[TIAB]	Q8N2K0[WEB:]https://www.uniprot.org/uniprot/Q8N2K0
+ACOT8	36	MIS	MIS(1),SYN(2),INT(27),2KU(3),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ACOT8[TIAB] AND cancer[MH]	O14734[WEB:]https://www.uniprot.org/uniprot/O14734
+ACSS1	118	MIS	MIS(1),SYN(3),INT(103),UT5(1),UT3(2),2KU(7),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ACSS1[TIAB] AND cancer[MH]	Q9NUB1[WEB:]https://www.uniprot.org/uniprot/Q9NUB1
+ACSS2	37	MIS	MIS(1),INT(32),UT5(1),2KU(3)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=ACSS2[TIAB] AND cancer[MH]	Q9NR19[WEB:]https://www.uniprot.org/uniprot/Q9NR19
+ACTL10	3	UT5	UT5(1),2KU(2)				Q5JWF8[WEB:]https://www.uniprot.org/uniprot/Q5JWF8
+ACTR5	24	INT	INT(18),2KU(4),2KD(2)				Q9H9F9[WEB:]https://www.uniprot.org/uniprot/Q9H9F9
+ADA	66	INT	INT(58),UT5(1),2KU(5),2KD(2)		465	http://www.ncbi.nlm.nih.gov/pubmed?term=ADA[TIAB] AND cancer[MH]	P00813[WEB:]https://www.uniprot.org/uniprot/P00813
+ADAM33	49	FSI	FSI(1),IND(1),MIS(2),SYN(3),INT(26),UT5(1),UT3(1),2KU(7),2KD(7)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=ADAM33[TIAB] AND cancer[MH]	Q9BZ11[WEB:]https://www.uniprot.org/uniprot/Q9BZ11
+ADNP	55	STG	STG(1),MIS(1),SYN(1),INT(41),UT5(1),UT3(2),2KU(3),2KD(5)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=ADNP[TIAB] AND cancer[MH]	Q9H2P0[WEB:]https://www.uniprot.org/uniprot/Q9H2P0
+ADRA1D	110	MIS	MIS(3),SYN(1),INT(95),UT3(3),2KU(7),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ADRA1D[TIAB] AND cancer[TIAB]	P25100[WEB:]https://www.uniprot.org/uniprot/P25100
+ADRM1	46	FSD	FSD(1),MIS(2),SYN(3),INT(23),2KU(10),2KD(7)		10	http://www.ncbi.nlm.nih.gov/pubmed?term=ADRM1[TIAB] AND cancer[MH]	Q16186[WEB:]https://www.uniprot.org/uniprot/Q16186
+AHCY	29	SYN	SYN(2),INT(21),UT3(2),2KU(3),2KD(1)		66	http://www.ncbi.nlm.nih.gov/pubmed?term=AHCY[MH] AND cancer[MH]	P23526[WEB:]https://www.uniprot.org/uniprot/P23526
+AL049794.1	14	UT5	UT5(5),2KU(3),2KD(6)				
+AL133335.1	6	2KU	2KU(4),2KD(2)				
+ANGPT4	115	FSI	FSI(1),SYN(1),INT(95),UT3(10),2KU(5),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ANGPT4[TIAB] AND cancer[TIAB]	Q9Y264[WEB:]https://www.uniprot.org/uniprot/Q9Y264
+ANKEF1	34	MIS	MIS(1),SYN(1),INT(27),UT3(3),2KU(2)				Q9NU02[WEB:]https://www.uniprot.org/uniprot/Q9NU02
+ANKRD60	11	INT	INT(9),2KU(1),2KD(1)				Q9BZ19[WEB:]https://www.uniprot.org/uniprot/Q9BZ19
+AP5S1	20	SYN	SYN(1),INT(4),UT3(6),2KU(3),2KD(6)				Q9NUS5[WEB:]https://www.uniprot.org/uniprot/Q9NUS5
+APCDD1L	43	INT	INT(39),2KU(2),2KD(2)				Q8NCL9[WEB:]https://www.uniprot.org/uniprot/Q8NCL9
+APMAP	90	SYN	SYN(2),INT(75),UT5(2),2KU(7),2KD(4)				Q9HDC9[WEB:]https://www.uniprot.org/uniprot/Q9HDC9
+ARFGEF2	217	MIS	MIS(1),SYN(7),INT(198),UT3(1),2KU(6),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ARFGEF2[TIAB] AND cancer[MH]	Q9Y6D5[WEB:]https://www.uniprot.org/uniprot/Q9Y6D5
+ARHGAP40	59	SYN	SYN(1),INT(55),UT3(2),2KD(1)				Q5TG30[WEB:]https://www.uniprot.org/uniprot/Q5TG30
+ASIP	119	FSD	FSD(1),MIS(1),INT(109),UT5(1),2KU(2),2KD(5)		26	http://www.ncbi.nlm.nih.gov/pubmed?term=ASIP[TIAB] AND cancer[MH]	P42127[WEB:]https://www.uniprot.org/uniprot/P42127
+ASXL1	76	MIS	MIS(2),SYN(1),INT(66),UT3(2),2KU(5)		83	http://www.ncbi.nlm.nih.gov/pubmed?term=ASXL1[TIAB] AND cancer[MH]	Q8IXJ9[WEB:]https://www.uniprot.org/uniprot/Q8IXJ9
+ATP5E	30	MIS	MIS(2),INT(14),UT5(2),2KU(10),2KD(2)				
+ATP9A	283	FSI	FSI(1),SPL(1),MIS(2),SYN(2),INT(265),UT5(1),UT3(7),2KU(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ATP9A[TIAB] AND cancer[MH]	O75110[WEB:]https://www.uniprot.org/uniprot/O75110
+ATRN	283	FSD	FSD(1),MIS(2),SYN(1),INT(266),UT3(8),2KD(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ATRN[TIAB] AND cancer[MH]	O75882[WEB:]https://www.uniprot.org/uniprot/O75882
+AURKA	66	FSI	FSI(1),MIS(2),SYN(2),INT(50),UT3(4),2KU(3),2KD(4)		326	http://www.ncbi.nlm.nih.gov/pubmed?term=AURKA[MH] AND cancer[MH]	O14965[WEB:]https://www.uniprot.org/uniprot/O14965
+AVP	13	SYN	SYN(2),INT(1),UT3(1),2KU(5),2KD(4)		192	http://www.ncbi.nlm.nih.gov/pubmed?term=AVP[TIAB] AND cancer[MH]	P01185[WEB:]https://www.uniprot.org/uniprot/P01185
+B4GALT5	179	MIS	MIS(3),SYN(1),INT(156),UT5(1),UT3(6),2KU(10),2KD(2)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=B4GALT5[TIAB] AND cancer[MH]	O43286[WEB:]https://www.uniprot.org/uniprot/O43286
+BANF2	103	INT	INT(93),2KU(4),2KD(6)				Q9H503[WEB:]https://www.uniprot.org/uniprot/Q9H503
+BCAS1	194	MIS	MIS(2),INT(191),2KU(1)		9	http://www.ncbi.nlm.nih.gov/pubmed?term=BCAS1[TIAB] AND cancer[MH]	O75363[WEB:]https://www.uniprot.org/uniprot/O75363
+BCAS4	75	INT	INT(70),UT3(3),2KD(2)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=BCAS4[TIAB] AND cancer[MH]	Q8TDM0[WEB:]https://www.uniprot.org/uniprot/Q8TDM0
+BCL2L1	141	MIS	MIS(2),INT(130),UT3(5),2KU(4)		1928	http://www.ncbi.nlm.nih.gov/pubmed?term=BCL2L1[MH] AND cancer[MH]	Q07817[WEB:]https://www.uniprot.org/uniprot/Q07817
+BFSP1	116	SYN	SYN(2),INT(106),UT3(1),2KU(4),2KD(3)				Q12934[WEB:]https://www.uniprot.org/uniprot/Q12934
+BLCAP	4	INT	INT(3),2KU(1)		12	http://www.ncbi.nlm.nih.gov/pubmed?term=BLCAP[TIAB] AND cancer[MH]	P62952[WEB:]https://www.uniprot.org/uniprot/P62952
+BMP2	40	MIS	MIS(1),SYN(2),INT(21),UT5(3),UT3(1),2KU(5),2KD(7)		111	http://www.ncbi.nlm.nih.gov/pubmed?term=BMP2[TIAB] AND cancer[MH]	P12643[WEB:]https://www.uniprot.org/uniprot/P12643
+BMP7	206	MIS	MIS(3),SYN(3),INT(180),UT5(1),UT3(9),2KU(4),2KD(6)		79	http://www.ncbi.nlm.nih.gov/pubmed?term=BMP7[TIAB] AND cancer[MH]	P18075[WEB:]https://www.uniprot.org/uniprot/P18075
+BPI	221	MIS	MIS(3),SYN(2),INT(170),UT3(11),2KU(16),2KD(19)		167	http://www.ncbi.nlm.nih.gov/pubmed?term=BPI[TIAB] AND cancer[MH]	P17213[WEB:]https://www.uniprot.org/uniprot/P17213
+BPIFA1	8	SYN	SYN(1),INT(3),2KU(2),2KD(2)				Q9NP55[WEB:]https://www.uniprot.org/uniprot/Q9NP55
+BPIFA2	8	INT	INT(7),2KD(1)				Q96DR5[WEB:]https://www.uniprot.org/uniprot/Q96DR5
+BPIFA3	3	INT	INT(2),2KD(1)				Q9BQP9[WEB:]https://www.uniprot.org/uniprot/Q9BQP9
+BPIFB1	36	MIS	MIS(1),SYN(1),INT(27),2KU(5),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=BPIFB1[TIAB] AND cancer[TIAB]	Q8TDL5[WEB:]https://www.uniprot.org/uniprot/Q8TDL5
+BPIFB2	9	INT	INT(4),UT3(1),2KU(4)				Q8N4F0[WEB:]https://www.uniprot.org/uniprot/Q8N4F0
+BPIFB3	8	INT	INT(7),2KD(1)				P59826[WEB:]https://www.uniprot.org/uniprot/P59826
+BPIFB4	14	INT	INT(14)				P59827[WEB:]https://www.uniprot.org/uniprot/P59827
+BPIFB6	6	INT	INT(4),2KU(1),2KD(1)				Q8NFQ5[WEB:]https://www.uniprot.org/uniprot/Q8NFQ5
+BTBD3	55	MIS	MIS(10),SYN(2),INT(28),UT3(15)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=BTBD3[TIAB] AND cancer[MH]	Q9Y2F9[WEB:]https://www.uniprot.org/uniprot/Q9Y2F9
+C20orf141	4	MIS	MIS(2),SYN(2)				Q9NUB4[WEB:]https://www.uniprot.org/uniprot/Q9NUB4
+C20orf144	9	SYN	SYN(1),INT(2),2KU(1),2KD(5)				Q9BQM9[WEB:]https://www.uniprot.org/uniprot/Q9BQM9
+C20orf173	10	MIS	MIS(1),SYN(1),INT(5),2KU(2),2KD(1)				Q96LM9[WEB:]https://www.uniprot.org/uniprot/Q96LM9
+C20orf194	156	FSI	FSI(1),SPL(1),SYN(2),INT(150),UT3(2)				Q5TEA3[WEB:]https://www.uniprot.org/uniprot/Q5TEA3
+C20orf196	347	INT	INT(334),2KU(2),2KD(11)				
+C20orf202	10	INT	INT(6),UT3(1),2KU(3)				A1L168[WEB:]https://www.uniprot.org/uniprot/A1L168
+C20orf24	10	INT	INT(4),2KU(5),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=C20orf24[TIAB] AND cancer[MH]	
+C20orf27	43	SYN	SYN(1),INT(27),UT3(3),2KU(3),2KD(9)				Q9GZN8[WEB:]https://www.uniprot.org/uniprot/Q9GZN8
+C20orf85	26	INT	INT(20),UT3(1),2KU(3),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=C20orf85[TIAB] AND cancer[MH]	Q9H1P6[WEB:]https://www.uniprot.org/uniprot/Q9H1P6
+C20orf96	93	SPL	SPL(1),MIS(4),SYN(1),INT(72),UT5(2),UT3(1),2KU(7),2KD(5)				Q9NUD7[WEB:]https://www.uniprot.org/uniprot/Q9NUD7
+CABLES2	88	FSD	FSD(1),MIS(3),SYN(4),INT(58),UT3(11),2KU(4),2KD(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CABLES2[TIAB] AND cancer[TIAB]	Q9BTV7[WEB:]https://www.uniprot.org/uniprot/Q9BTV7
+CASS4	147	MIS	MIS(1),SYN(1),INT(117),UT5(3),UT3(6),2KU(9),2KD(10)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CASS4[TIAB] AND cancer[MH]	Q9NQ75[WEB:]https://www.uniprot.org/uniprot/Q9NQ75
+CBFA2T2	193	FSI	FSI(1),SYN(1),INT(183),UT3(3),2KU(4),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=CBFA2T2[TIAB] AND cancer[MH]	O43439[WEB:]https://www.uniprot.org/uniprot/O43439
+CBLN4	19	SPL	SPL(1),SYN(1),INT(8),UT5(2),UT3(2),2KU(3),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=CBLN4[TIAB] AND cancer[TIAB]	Q9NTU7[WEB:]https://www.uniprot.org/uniprot/Q9NTU7
+CCM2L	28	INT	INT(24),2KU(4)				Q9NUG4[WEB:]https://www.uniprot.org/uniprot/Q9NUG4
+CD40	9	INT	INT(7),2KU(1),2KD(1)		1724	http://www.ncbi.nlm.nih.gov/pubmed?term=CD40[TIAB] AND cancer[MH]	P25942[WEB:]https://www.uniprot.org/uniprot/P25942
+CD93	40	STG	STG(1),MIS(6),SYN(3),INT(1),UT3(16),2KU(6),2KD(7)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=CD93[TIAB] AND cancer[MH]	Q9NPY3[WEB:]https://www.uniprot.org/uniprot/Q9NPY3
+CDC25B	71	MIS	MIS(2),SYN(1),INT(59),UT3(3),2KU(2),2KD(4)		137	http://www.ncbi.nlm.nih.gov/pubmed?term=CDC25B[TIAB] AND cancer[MH]	P30305[WEB:]https://www.uniprot.org/uniprot/P30305
+CDH22	222	MIS	MIS(4),INT(207),UT5(1),UT3(1),2KU(1),2KD(8)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=CDH22[TIAB] AND cancer[MH]	Q9UJ99[WEB:]https://www.uniprot.org/uniprot/Q9UJ99
+CDH26	173	MIS	MIS(3),SYN(1),INT(164),2KU(3),2KD(2)				Q8IXH8[WEB:]https://www.uniprot.org/uniprot/Q8IXH8
+CDH4	1572	MIS	MIS(4),SYN(2),INT(1561),UT3(2),2KD(3)		7	http://www.ncbi.nlm.nih.gov/pubmed?term=CDH4[TIAB] AND cancer[MH]	P55283[WEB:]https://www.uniprot.org/uniprot/P55283
+CDK5RAP1	67	SYN	SYN(2),INT(57),UT3(1),2KU(4),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=CDK5RAP1[TIAB] AND cancer[MH]	Q96SZ6[WEB:]https://www.uniprot.org/uniprot/Q96SZ6
+CDS2	137	INI	INI(1),SYN(2),INT(106),UT3(17),2KU(6),2KD(5)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=CDS2[TIAB] AND cancer[MH]	O95674[WEB:]https://www.uniprot.org/uniprot/O95674
+CEBPB	5	FSI	FSI(1),UT3(1),2KU(3)		26	http://www.ncbi.nlm.nih.gov/pubmed?term=CEBPB[TIAB] AND cancer[MH]	P17676[WEB:]https://www.uniprot.org/uniprot/P17676
+CENPB	8	MIS	MIS(1),UT5(1),UT3(2),2KU(2),2KD(2)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=CENPB[TIAB] AND cancer[MH]	P07199[WEB:]https://www.uniprot.org/uniprot/P07199
+CEP250	94	FSD	FSD(2),MIS(9),SYN(9),INT(62),UT5(1),UT3(7),2KU(2),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CEP250[TIAB] AND cancer[MH]	Q9BV73[WEB:]https://www.uniprot.org/uniprot/Q9BV73
+CFAP61	674	MIS	MIS(4),SYN(2),INT(664),2KU(1),2KD(3)				Q8NHU2[WEB:]https://www.uniprot.org/uniprot/Q8NHU2
+CHD6	131	INT	INT(127),UT3(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CHD6[TIAB] AND cancer[MH]	Q8TD26[WEB:]https://www.uniprot.org/uniprot/Q8TD26
+CHGB	54	IND	IND(1),MIS(3),SYN(3),INT(31),UT5(1),UT3(1),2KU(10),2KD(4)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=CHGB[TIAB] AND cancer[MH]	P05060[WEB:]https://www.uniprot.org/uniprot/P05060
+CHMP4B	42	INT	INT(29),UT3(1),2KU(6),2KD(6)				Q9H444[WEB:]https://www.uniprot.org/uniprot/Q9H444
+CNBD2	154	IND	IND(1),MIS(3),INT(141),2KU(6),2KD(3)				Q96M20[WEB:]https://www.uniprot.org/uniprot/Q96M20
+COL9A3	36	MIS	MIS(4),INT(25),UT3(3),2KU(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=COL9A3[TIAB] AND cancer[MH]	Q14050[WEB:]https://www.uniprot.org/uniprot/Q14050
+COMMD7	46	IND	IND(1),INT(42),UT5(1),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=COMMD7[TIAB] AND cancer[MH]	Q86VX2[WEB:]https://www.uniprot.org/uniprot/Q86VX2
+COX4I2	22	MIS	MIS(1),SYN(1),INT(10),2KU(8),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=COX4I2[TIAB] AND cancer[MH]	Q96KJ9[WEB:]https://www.uniprot.org/uniprot/Q96KJ9
+CPNE1	39	FSI	FSI(1),MIS(1),INT(34),2KU(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CPNE1[TIAB] AND cancer[MH]	Q99829[WEB:]https://www.uniprot.org/uniprot/Q99829
+CPXM1	32	FSI	FSI(1),MIS(3),INT(9),2KU(6),2KD(13)				Q96SM3[WEB:]https://www.uniprot.org/uniprot/Q96SM3
+CRLS1	65	FSI	FSI(1),MIS(1),INT(50),UT3(6),2KU(6),2KD(1)				Q9UJA2[WEB:]https://www.uniprot.org/uniprot/Q9UJA2
+CRNKL1	48	FSD	FSD(1),MIS(1),SYN(1),INT(24),UT5(1),UT3(2),2KU(9),2KD(9)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CRNKL1[TIAB] AND cancer[MH]	Q9BZJ0[WEB:]https://www.uniprot.org/uniprot/Q9BZJ0
+CSE1L	125	FSI	FSI(1),FSD(1),INI(1),MIS(5),SYN(2),INT(104),UT3(2),2KU(3),2KD(6)		39	http://www.ncbi.nlm.nih.gov/pubmed?term=CSE1L[TIAB] AND cancer[MH]	P55060[WEB:]https://www.uniprot.org/uniprot/P55060
+CSNK2A1	117	MIS	MIS(1),SYN(1),INT(108),UT5(1),2KU(6)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=CSNK2A1[TIAB] AND cancer[MH]	P68400[WEB:]https://www.uniprot.org/uniprot/P68400
+CSRP2BP	94	IND	IND(1),MIS(3),SYN(1),INT(75),UT3(7),2KU(3),2KD(4)				
+CST1	29	INT	INT(13),UT5(1),UT3(2),2KU(6),2KD(7)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=CST1[TIAB] AND cancer[MH]	P01037[WEB:]https://www.uniprot.org/uniprot/P01037
+CST11	21	MIS	MIS(2),INT(6),2KU(5),2KD(8)				Q9H112[WEB:]https://www.uniprot.org/uniprot/Q9H112
+CST2	10	INT	INT(4),UT3(1),2KU(3),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CST2[TIAB] AND cancer[MH]	P09228[WEB:]https://www.uniprot.org/uniprot/P09228
+CST3	29	INT	INT(10),UT3(8),2KU(3),2KD(8)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=CST3[TIAB] AND cancer[MH]	P01034[WEB:]https://www.uniprot.org/uniprot/P01034
+CST4	26	MIS	MIS(1),INT(6),UT3(3),2KU(6),2KD(10)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=CST4[TIAB] AND cancer[MH]	P01036[WEB:]https://www.uniprot.org/uniprot/P01036
+CST5	12	MIS	MIS(1),INT(6),2KU(3),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=CST5[TIAB] AND cancer[MH]	P28325[WEB:]https://www.uniprot.org/uniprot/P28325
+CST7	39	MIS	MIS(1),INT(24),2KU(5),2KD(9)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=CST7[TIAB] AND cancer[MH]	O76096[WEB:]https://www.uniprot.org/uniprot/O76096
+CST8	19	INT	INT(5),UT5(1),2KU(8),2KD(5)				O60676[WEB:]https://www.uniprot.org/uniprot/O60676
+CST9	11	INT	INT(3),2KU(6),2KD(2)				Q5W186[WEB:]https://www.uniprot.org/uniprot/Q5W186
+CST9L	9	SYN	SYN(1),INT(3),UT5(1),2KU(4)				Q9H4G1[WEB:]https://www.uniprot.org/uniprot/Q9H4G1
+CSTF1	28	MIS	MIS(1),SYN(1),INT(15),UT5(1),UT3(1),2KU(5),2KD(4)				Q05048[WEB:]https://www.uniprot.org/uniprot/Q05048
+CSTL1	28	INT	INT(11),UT5(1),2KU(2),2KD(14)				Q9H114[WEB:]https://www.uniprot.org/uniprot/Q9H114
+CTCFL	51	MIS	MIS(3),SYN(6),INT(32),UT5(1),2KU(7),2KD(2)		14	http://www.ncbi.nlm.nih.gov/pubmed?term=CTCFL[TIAB] AND cancer[MH]	Q8NI51[WEB:]https://www.uniprot.org/uniprot/Q8NI51
+CTNNBL1	39	INT	INT(29),2KU(9),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=CTNNBL1[TIAB] AND cancer[MH]	Q8WYA6[WEB:]https://www.uniprot.org/uniprot/Q8WYA6
+CTSA	22	FSD	FSD(1),INT(10),UT3(1),2KU(5),2KD(5)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=CTSA[TIAB] AND cancer[MH]	P10619[WEB:]https://www.uniprot.org/uniprot/P10619
+CTSZ	22	FSD	FSD(1),MIS(1),SYN(1),INT(16),2KU(2),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=CTSZ[MH] AND cancer[MH]	Q9UBR2[WEB:]https://www.uniprot.org/uniprot/Q9UBR2
+CYP24A1	79	FSI	FSI(1),MIS(2),SYN(2),INT(60),UT5(1),UT3(6),2KU(6),2KD(1)		84	http://www.ncbi.nlm.nih.gov/pubmed?term=CYP24A1[TIAB] AND cancer[MH]	Q07973[WEB:]https://www.uniprot.org/uniprot/Q07973
+DBNDD2	20	SYN	SYN(1),INT(10),2KU(4),2KD(5)				Q9BQY9[WEB:]https://www.uniprot.org/uniprot/Q9BQY9
+DDRGK1	28	MIS	MIS(2),INT(20),2KU(3),2KD(3)				Q96HY6[WEB:]https://www.uniprot.org/uniprot/Q96HY6
+DDX27	64	MIS	MIS(4),SYN(4),INT(47),UT3(2),2KU(2),2KD(5)				Q96GQ7[WEB:]https://www.uniprot.org/uniprot/Q96GQ7
+DEFB115	1	2KU	2KU(1)				Q30KQ5[WEB:]https://www.uniprot.org/uniprot/Q30KQ5
+DEFB116	29	FSI	FSI(1),MIS(1),INT(15),2KU(4),2KD(8)				Q30KQ4[WEB:]https://www.uniprot.org/uniprot/Q30KQ4
+DEFB118	25	INT	INT(9),UT3(2),2KU(6),2KD(8)				Q96PH6[WEB:]https://www.uniprot.org/uniprot/Q96PH6
+DEFB119	53	INT	INT(38),UT5(1),2KU(7),2KD(7)				Q8N690[WEB:]https://www.uniprot.org/uniprot/Q8N690
+DEFB121	14	FSD	FSD(1),INT(2),2KU(4),2KD(7)				Q5J5C9[WEB:]https://www.uniprot.org/uniprot/Q5J5C9
+DEFB123	27	INT	INT(16),2KU(6),2KD(5)				Q8N688[WEB:]https://www.uniprot.org/uniprot/Q8N688
+DEFB124	16	INT	INT(13),2KU(3)				Q8NES8[WEB:]https://www.uniprot.org/uniprot/Q8NES8
+DEFB125	6	SYN	SYN(1),INT(3),2KU(1),2KD(1)				Q8N687[WEB:]https://www.uniprot.org/uniprot/Q8N687
+DEFB126	11	SPL	SPL(1),INT(7),2KU(2),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=DEFB126[TIAB] AND cancer[MH]	Q9BYW3[WEB:]https://www.uniprot.org/uniprot/Q9BYW3
+DEFB127	25	INT	INT(4),2KU(15),2KD(6)				Q9H1M4[WEB:]https://www.uniprot.org/uniprot/Q9H1M4
+DEFB128	12	STG	STG(1),MIS(1),INT(3),2KU(1),2KD(6)				Q7Z7B8[WEB:]https://www.uniprot.org/uniprot/Q7Z7B8
+DEFB129	23	MIS	MIS(1),SYN(3),INT(3),2KU(7),2KD(9)				Q9H1M3[WEB:]https://www.uniprot.org/uniprot/Q9H1M3
+DEFB132	21	MIS	MIS(1),SYN(1),INT(2),UT3(8),2KU(4),2KD(5)				Q7Z7B7[WEB:]https://www.uniprot.org/uniprot/Q7Z7B7
+DHX35	146	STG	STG(1),MIS(6),SYN(3),INT(126),UT3(2),2KU(4),2KD(4)				Q9H5Z1[WEB:]https://www.uniprot.org/uniprot/Q9H5Z1
+DIDO1	44	FSI	FSI(1),FSD(1),INI(1),MIS(2),SYN(3),INT(32),UT3(3),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=DIDO1[TIAB] AND cancer[MH]	Q9BTC0[WEB:]https://www.uniprot.org/uniprot/Q9BTC0
+DLGAP4	315	MIS	MIS(1),SYN(3),INT(307),2KU(2),2KD(2)				Q9Y2H0[WEB:]https://www.uniprot.org/uniprot/Q9Y2H0
+DNMT3B	61	FSI	FSI(1),MIS(1),SYN(2),INT(53),UT3(2),2KU(1),2KD(1)		328	http://www.ncbi.nlm.nih.gov/pubmed?term=DNMT3B[TIAB] AND cancer[MH]	Q9UBC3[WEB:]https://www.uniprot.org/uniprot/Q9UBC3
+DNTTIP1	86	STG	STG(1),MIS(2),SYN(1),INT(66),UT3(1),2KU(7),2KD(8)				Q9H147[WEB:]https://www.uniprot.org/uniprot/Q9H147
+DOK5	247	MIS	MIS(2),SYN(1),INT(229),2KU(11),2KD(4)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=DOK5[TIAB] AND cancer[MH]	Q9P104[WEB:]https://www.uniprot.org/uniprot/Q9P104
+DPM1	56	MIS	MIS(1),INT(47),UT3(2),2KU(2),2KD(4)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=DPM1[TIAB] AND cancer[MH]	O60762[WEB:]https://www.uniprot.org/uniprot/O60762
+DSN1	47	MIS	MIS(2),INT(34),UT3(5),2KU(3),2KD(3)				Q9H410[WEB:]https://www.uniprot.org/uniprot/Q9H410
+DSTN	70	INT	INT(60),UT5(1),UT3(3),2KU(3),2KD(3)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=DSTN[TIAB] AND cancer[MH]	P60981[WEB:]https://www.uniprot.org/uniprot/P60981
+DTD1	301	INT	INT(294),UT3(2),2KU(2),2KD(3)				Q8TEA8[WEB:]https://www.uniprot.org/uniprot/Q8TEA8
+DUSP15	64	MIS	MIS(1),SYN(3),INT(47),UT5(2),UT3(4),2KD(7)				Q9H1R2[WEB:]https://www.uniprot.org/uniprot/Q9H1R2
+DYNLRB1	30	MIS	MIS(1),SYN(1),INT(24),2KU(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=DYNLRB1[TIAB] AND cancer[MH]	Q9NP97[WEB:]https://www.uniprot.org/uniprot/Q9NP97
+DZANK1	169	MIS	MIS(2),SYN(2),INT(155),UT3(4),2KU(3),2KD(3)				Q9NVP4[WEB:]https://www.uniprot.org/uniprot/Q9NVP4
+E2F1	25	FSI	FSI(1),FSD(1),MIS(1),INT(19),UT5(1),2KD(2)		763	http://www.ncbi.nlm.nih.gov/pubmed?term=E2F1[TIAB] AND cancer[MH]	Q01094[WEB:]https://www.uniprot.org/uniprot/Q01094
+EBF4	110	MIS	MIS(1),INT(104),UT3(1),2KU(1),2KD(3)				Q9BQW3[WEB:]https://www.uniprot.org/uniprot/Q9BQW3
+EDEM2	16	FSD	FSD(1),MIS(1),INT(14)				Q9BV94[WEB:]https://www.uniprot.org/uniprot/Q9BV94
+EDN3	89	FSD	FSD(1),INT(82),2KU(5),2KD(1)		9	http://www.ncbi.nlm.nih.gov/pubmed?term=EDN3[TIAB] AND cancer[MH]	P14138[WEB:]https://www.uniprot.org/uniprot/P14138
+EFCAB8	126	FSI	FSI(1),FSD(2),MIS(4),INT(111),2KU(6),2KD(2)				A8MWE9[WEB:]https://www.uniprot.org/uniprot/A8MWE9
+EIF2S2	40	MIS	MIS(1),SYN(1),INT(31),UT5(1),UT3(1),2KU(4),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=EIF2S2[TIAB] AND cancer[MH]	P20042[WEB:]https://www.uniprot.org/uniprot/P20042
+EIF6	1	2KU	2KU(1)		8	http://www.ncbi.nlm.nih.gov/pubmed?term=EIF6[TIAB] AND cancer[MH]	P56537[WEB:]https://www.uniprot.org/uniprot/P56537
+ELMO2	95	MIS	MIS(4),INT(79),UT3(3),2KU(4),2KD(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ELMO2[TIAB] AND cancer[MH]	Q96JJ3[WEB:]https://www.uniprot.org/uniprot/Q96JJ3
+EMILIN3	21	MIS	MIS(2),INT(7),UT5(1),UT3(4),2KU(5),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=EMILIN3[TIAB] AND cancer[TIAB]	Q9NT22[WEB:]https://www.uniprot.org/uniprot/Q9NT22
+ENTPD6	12	INT	INT(6),2KU(6)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ENTPD6[TIAB] AND cancer[MH]	O75354[WEB:]https://www.uniprot.org/uniprot/O75354
+EPB41L1	216	MIS	MIS(1),SYN(1),INT(180),UT3(14),2KU(5),2KD(15)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=EPB41L1[TIAB] AND cancer[MH]	Q9H4G0[WEB:]https://www.uniprot.org/uniprot/Q9H4G0
+EPPIN	16	INT	INT(6),UT5(1),UT3(1),2KU(3),2KD(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=EPPIN[TIAB] AND cancer[MH]	O95925[WEB:]https://www.uniprot.org/uniprot/O95925
+EPPIN-WFDC6	22	INT	INT(13),2KU(4),2KD(5)				O95925;Q9BQY6[WEB:]https://www.uniprot.org/uniprot/O95925;Q9BQY6
+ERGIC3	32	FSI	FSI(1),SYN(1),INT(25),2KU(2),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ERGIC3[TIAB] AND cancer[MH]	Q9Y282[WEB:]https://www.uniprot.org/uniprot/Q9Y282
+ESF1	117	FSI	FSI(1),SYN(2),INT(109),2KU(1),2KD(4)				Q9H501[WEB:]https://www.uniprot.org/uniprot/Q9H501
+EYA2	599	FSD	FSD(1),MIS(6),INT(581),UT5(1),2KU(4),2KD(6)		12	http://www.ncbi.nlm.nih.gov/pubmed?term=EYA2[TIAB] AND cancer[MH]	O00167[WEB:]https://www.uniprot.org/uniprot/O00167
+FAM110A	44	INT	INT(30),UT5(1),2KU(2),2KD(11)				Q9BQ89[WEB:]https://www.uniprot.org/uniprot/Q9BQ89
+FAM182B	11	INT	INT(10),2KD(1)				Q5T319[WEB:]https://www.uniprot.org/uniprot/Q5T319
+FAM209A	37	MIS	MIS(1),SYN(2),INT(7),UT5(3),2KU(10),2KD(14)				Q5JX71[WEB:]https://www.uniprot.org/uniprot/Q5JX71
+FAM209B	23	FSI	FSI(1),MIS(1),INT(7),2KU(8),2KD(6)				Q5JX69[WEB:]https://www.uniprot.org/uniprot/Q5JX69
+FAM210B	34	FSD	FSD(1),SYN(1),INT(13),UT3(5),2KU(9),2KD(5)				Q96KR6[WEB:]https://www.uniprot.org/uniprot/Q96KR6
+FAM217B	34	MIS	MIS(1),INT(22),UT3(6),2KU(4),2KD(1)				Q9NTX9[WEB:]https://www.uniprot.org/uniprot/Q9NTX9
+FAM65C	255	MIS	MIS(2),SYN(1),INT(225),UT5(2),UT3(3),2KU(16),2KD(6)				
+FAM83C	2	INT	INT(1),UT3(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=FAM83C[TIAB] AND cancer[TIAB]	Q9BQN1[WEB:]https://www.uniprot.org/uniprot/Q9BQN1
+FAM83D	29	FSI	FSI(1),MIS(1),SYN(3),INT(21),UT3(2),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=FAM83D[TIAB] AND cancer[MH]	Q9H4H8[WEB:]https://www.uniprot.org/uniprot/Q9H4H8
+FASTKD5	29	FSI	FSI(1),MIS(5),SYN(1),INT(13),2KU(4),2KD(5)				Q7L8L6[WEB:]https://www.uniprot.org/uniprot/Q7L8L6
+FERMT1	105	MIS	MIS(2),SYN(1),INT(96),UT5(1),2KU(5)		8	http://www.ncbi.nlm.nih.gov/pubmed?term=FERMT1[TIAB] AND cancer[MH]	Q9BQL6[WEB:]https://www.uniprot.org/uniprot/Q9BQL6
+FITM2	1	UT3	UT3(1)				Q8N6M3[WEB:]https://www.uniprot.org/uniprot/Q8N6M3
+FKBP1A	51	SYN	SYN(1),INT(44),UT3(3),2KU(1),2KD(2)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=FKBP1A[TIAB] AND cancer[MH]	P62942[WEB:]https://www.uniprot.org/uniprot/P62942
+FLRT3	23	INT	INT(17),UT3(1),2KU(4),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=FLRT3[TIAB] AND cancer[MH]	Q9NZU0[WEB:]https://www.uniprot.org/uniprot/Q9NZU0
+FOXA2	15	MIS	MIS(1),UT5(1),UT3(2),2KU(7),2KD(4)		52	http://www.ncbi.nlm.nih.gov/pubmed?term=FOXA2[TIAB] AND cancer[MH]	Q9Y261[WEB:]https://www.uniprot.org/uniprot/Q9Y261
+FOXS1	13	MIS	MIS(2),2KU(7),2KD(4)				O43638[WEB:]https://www.uniprot.org/uniprot/O43638
+GATA5	34	MIS	MIS(2),INT(24),UT3(4),2KU(3),2KD(1)		21	http://www.ncbi.nlm.nih.gov/pubmed?term=GATA5[TIAB] AND cancer[MH]	Q9BWX5[WEB:]https://www.uniprot.org/uniprot/Q9BWX5
+GCNT7	120	FSD	FSD(1),MIS(4),SYN(2),INT(95),UT5(1),2KU(13),2KD(4)				Q6ZNI0[WEB:]https://www.uniprot.org/uniprot/Q6ZNI0
+GDAP1L1	5	INT	INT(5)				Q96MZ0[WEB:]https://www.uniprot.org/uniprot/Q96MZ0
+GDF5	16	INT	INT(10),UT5(1),2KU(2),2KD(3)		7	http://www.ncbi.nlm.nih.gov/pubmed?term=GDF5[MH] AND cancer[MH]	P43026[WEB:]https://www.uniprot.org/uniprot/P43026
+GDF5OS	3	2KU	2KU(3)				Q5U4N7[WEB:]https://www.uniprot.org/uniprot/Q5U4N7
+GFRA4	19	FSI	FSI(1),MIS(2),SYN(1),INT(3),UT3(1),2KU(6),2KD(5)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=GFRA4[TIAB] AND cancer[MH]	Q9GZZ7[WEB:]https://www.uniprot.org/uniprot/Q9GZZ7
+GGT7	41	MIS	MIS(2),SYN(1),INT(36),2KD(2)				Q9UJ14[WEB:]https://www.uniprot.org/uniprot/Q9UJ14
+GGTLC1	51	FSD	FSD(1),MIS(3),SYN(2),INT(19),UT3(1),2KU(19),2KD(6)				Q9BX51[WEB:]https://www.uniprot.org/uniprot/Q9BX51
+GHRH	11	INT	INT(7),UT5(1),2KU(1),2KD(2)		447	http://www.ncbi.nlm.nih.gov/pubmed?term=GHRH[TIAB] AND cancer[MH]	P01286[WEB:]https://www.uniprot.org/uniprot/P01286
+GID8	7	IND	IND(1),INT(1),UT3(2),2KD(3)				Q9NWU2[WEB:]https://www.uniprot.org/uniprot/Q9NWU2
+GINS1	27	INT	INT(23),UT3(1),2KU(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=GINS1[TIAB] AND cancer[MH]	Q14691[WEB:]https://www.uniprot.org/uniprot/Q14691
+GNAS	59	MIS	MIS(1),INT(52),UT3(1),2KU(1),2KD(4)		83	http://www.ncbi.nlm.nih.gov/pubmed?term=GNAS[TIAB] AND cancer[MH]	O95467;P63092;P84996;Q5JWF2[WEB:]https://www.uniprot.org/uniprot/O95467;P63092;P84996;Q5JWF2
+GNRH2	23	MIS	MIS(1),SYN(1),INT(12),2KU(3),2KD(6)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=GNRH2[TIAB] AND cancer[MH]	O43555[WEB:]https://www.uniprot.org/uniprot/O43555
+GPCPD1	131	INT	INT(119),UT5(2),UT3(3),2KU(3),2KD(4)				Q9NPB8[WEB:]https://www.uniprot.org/uniprot/Q9NPB8
+GSS	12	INT	INT(9),2KU(3)		69	http://www.ncbi.nlm.nih.gov/pubmed?term=GSS[TIAB] AND cancer[MH]	P48637[WEB:]https://www.uniprot.org/uniprot/P48637
+GTSF1L	2	2KU	2KU(1),2KD(1)				Q9H1H1[WEB:]https://www.uniprot.org/uniprot/Q9H1H1
+GZF1	21	MIS	MIS(1),SYN(1),INT(11),UT3(2),2KU(1),2KD(5)				Q9H116[WEB:]https://www.uniprot.org/uniprot/Q9H116
+HAO1	138	INT	INT(125),UT5(1),UT3(2),2KU(5),2KD(5)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=HAO1[TIAB] AND cancer[MH]	Q9UJM8[WEB:]https://www.uniprot.org/uniprot/Q9UJM8
+HCK	57	MIS	MIS(1),SYN(2),INT(48),2KU(1),2KD(5)		92	http://www.ncbi.nlm.nih.gov/pubmed?term=HCK[TIAB] AND cancer[MH]	P08631[WEB:]https://www.uniprot.org/uniprot/P08631
+HM13	120	MIS	MIS(2),INT(108),UT3(2),2KU(4),2KD(4)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=HM13[TIAB] AND cancer[MH]	Q8TCT9[WEB:]https://www.uniprot.org/uniprot/Q8TCT9
+HNF4A	291	FSD	FSD(1),SYN(2),INT(276),UT3(7),2KU(2),2KD(3)		14	http://www.ncbi.nlm.nih.gov/pubmed?term=HNF4A[TIAB] AND cancer[MH]	P41235[WEB:]https://www.uniprot.org/uniprot/P41235
+HRH3	19	MIS	MIS(3),INT(7),2KU(3),2KD(6)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=HRH3[TIAB] AND cancer[MH]	Q9Y5N1[WEB:]https://www.uniprot.org/uniprot/Q9Y5N1
+HSPA12B	66	FSD	FSD(1),MIS(3),SYN(3),INT(41),UT5(1),UT3(4),2KU(4),2KD(9)				Q96MM6[WEB:]https://www.uniprot.org/uniprot/Q96MM6
+ID1	9	2KU	2KU(5),2KD(4)		218	http://www.ncbi.nlm.nih.gov/pubmed?term=ID1[TIAB] AND cancer[MH]	P41134[WEB:]https://www.uniprot.org/uniprot/P41134
+IDH3B	17	FSD	FSD(1),MIS(2),INT(8),2KU(5),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=IDH3B[TIAB] AND cancer[MH]	O43837[WEB:]https://www.uniprot.org/uniprot/O43837
+IFT52	50	INT	INT(45),UT3(1),2KU(2),2KD(2)				Q9Y366[WEB:]https://www.uniprot.org/uniprot/Q9Y366
+INSM1	17	MIS	MIS(4),UT3(1),2KU(5),2KD(7)		13	http://www.ncbi.nlm.nih.gov/pubmed?term=INSM1[TIAB] AND cancer[MH]	Q01101[WEB:]https://www.uniprot.org/uniprot/Q01101
+ISM1	170	INT	INT(160),2KU(7),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ISM1[TIAB] AND cancer[MH]	B1AKI9[WEB:]https://www.uniprot.org/uniprot/B1AKI9
+ITCH	151	MIS	MIS(3),SYN(2),INT(139),UT3(2),2KU(1),2KD(4)		932	http://www.ncbi.nlm.nih.gov/pubmed?term=ITCH[MH] AND cancer[MH]	Q96J02[WEB:]https://www.uniprot.org/uniprot/Q96J02
+ITPA	50	SPL	SPL(1),MIS(1),SYN(1),INT(28),UT5(1),UT3(1),2KU(5),2KD(12)		15	http://www.ncbi.nlm.nih.gov/pubmed?term=ITPA[TIAB] AND cancer[MH]	Q9BY32[WEB:]https://www.uniprot.org/uniprot/Q9BY32
+JAG1	52	STG	STG(1),MIS(4),SYN(3),INT(33),UT3(4),2KU(5),2KD(2)		62	http://www.ncbi.nlm.nih.gov/pubmed?term=JAG1[TIAB] AND cancer[MH]	P78504[WEB:]https://www.uniprot.org/uniprot/P78504
+JPH2	188	MIS	MIS(2),SYN(2),INT(158),UT5(6),UT3(5),2KU(15)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=JPH2[TIAB] AND cancer[MH]	Q9BR39[WEB:]https://www.uniprot.org/uniprot/Q9BR39
+KCNB1	232	FSI	FSI(1),SYN(1),INT(204),UT5(1),UT3(19),2KU(5),2KD(1)				Q14721[WEB:]https://www.uniprot.org/uniprot/Q14721
+KCNG1	111	MIS	MIS(4),SYN(4),INT(92),UT5(1),UT3(1),2KU(5),2KD(4)				Q9UIX4[WEB:]https://www.uniprot.org/uniprot/Q9UIX4
+KCNK15	12	SYN	SYN(1),UNK(1),INT(8),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=KCNK15[TIAB] AND cancer[MH]	Q9H427[WEB:]https://www.uniprot.org/uniprot/Q9H427
+KCNS1	27	SYN	SYN(3),INT(11),UT3(4),2KU(4),2KD(5)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=KCNS1[TIAB] AND cancer[TIAB]	Q96KK3[WEB:]https://www.uniprot.org/uniprot/Q96KK3
+KIAA1755	122	MIS	MIS(2),SYN(3),INT(104),UT3(2),2KU(11)				Q5JYT7[WEB:]https://www.uniprot.org/uniprot/Q5JYT7
+KIF16B	512	FSI	FSI(2),MIS(5),SYN(2),INT(498),2KU(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=KIF16B[TIAB] AND cancer[MH]	Q96L93[WEB:]https://www.uniprot.org/uniprot/Q96L93
+KIF3B	122	MIS	MIS(1),SYN(3),INT(102),UT3(10),2KU(3),2KD(3)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=KIF3B[TIAB] AND cancer[MH]	O15066[WEB:]https://www.uniprot.org/uniprot/O15066
+KIZ	228	MIS	MIS(1),SYN(1),INT(218),2KU(5),2KD(3)				Q2M2Z5[WEB:]https://www.uniprot.org/uniprot/Q2M2Z5
+L3MBTL1	75	MIS	MIS(2),INT(68),UT3(1),2KU(2),2KD(2)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=L3MBTL1[TIAB] AND cancer[MH]	Q9Y468[WEB:]https://www.uniprot.org/uniprot/Q9Y468
+LAMA5	124	FSI	FSI(1),MIS(8),SYN(6),INT(94),2KU(4),2KD(11)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=LAMA5[TIAB] AND cancer[MH]	O15230[WEB:]https://www.uniprot.org/uniprot/O15230
+LAMP5	25	MIS	MIS(1),INT(18),2KU(2),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=LAMP5[TIAB] AND cancer[TIAB]	Q9UJQ1[WEB:]https://www.uniprot.org/uniprot/Q9UJQ1
+LBP	48	INT	INT(42),2KU(3),2KD(3)		100	http://www.ncbi.nlm.nih.gov/pubmed?term=LBP[TIAB] AND cancer[MH]	P18428[WEB:]https://www.uniprot.org/uniprot/P18428
+LINC00493	17	MIS	MIS(1),INT(3),UT5(2),2KU(5),2KD(6)				
+LINC01620	10	SYN	SYN(1),INT(3),2KU(2),2KD(4)				
+LPIN3	24	IND	IND(2),MIS(2),INT(11),UT3(1),2KU(4),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=LPIN3[TIAB] AND cancer[TIAB]	Q9BQK8[WEB:]https://www.uniprot.org/uniprot/Q9BQK8
+LRRN4	39	FSD	FSD(1),INT(24),UT5(2),UT3(1),2KU(8),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=LRRN4[TIAB] AND cancer[MH]	Q8WUT4[WEB:]https://www.uniprot.org/uniprot/Q8WUT4
+LSM14B	55	FSI	FSI(1),FSD(1),MIS(3),INT(36),UT5(1),UT3(2),2KU(8),2KD(3)				Q9BX40[WEB:]https://www.uniprot.org/uniprot/Q9BX40
+MACROD2	3541	SPL	SPL(1),INT(3527),UT5(1),UT3(4),2KU(2),2KD(6)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=MACROD2[TIAB] AND cancer[MH]	A1Z1Q3[WEB:]https://www.uniprot.org/uniprot/A1Z1Q3
+MAFB	9	MIS	MIS(2),UT3(2),2KU(4),2KD(1)		21	http://www.ncbi.nlm.nih.gov/pubmed?term=MAFB[MH] AND cancer[MH]	Q9Y5Q3[WEB:]https://www.uniprot.org/uniprot/Q9Y5Q3
+MANBAL	27	INT	INT(27)				Q9NQG1[WEB:]https://www.uniprot.org/uniprot/Q9NQG1
+MAP1LC3A	31	FSD	FSD(1),INT(21),UT5(1),2KU(7),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=MAP1LC3A[TIAB] AND cancer[MH]	Q9H492[WEB:]https://www.uniprot.org/uniprot/Q9H492
+MAPRE1	43	SYN	SYN(1),INT(32),UT3(4),2KU(4),2KD(2)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=MAPRE1[TIAB] AND cancer[MH]	Q15691[WEB:]https://www.uniprot.org/uniprot/Q15691
+MATN4	14	INT	INT(11),2KU(1),2KD(2)				O95460[WEB:]https://www.uniprot.org/uniprot/O95460
+MAVS	60	MIS	MIS(4),SYN(2),INT(30),UT3(17),2KU(2),2KD(5)		9	http://www.ncbi.nlm.nih.gov/pubmed?term=MAVS[TIAB] AND cancer[MH]	Q7Z434[WEB:]https://www.uniprot.org/uniprot/Q7Z434
+MC3R	7	MIS	MIS(1),2KU(3),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=MC3R[TIAB] AND cancer[MH]	P41968[WEB:]https://www.uniprot.org/uniprot/P41968
+MCM8	81	SYN	SYN(1),INT(64),UT3(6),2KU(2),2KD(8)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=MCM8[TIAB] AND cancer[MH]	Q9UJA3[WEB:]https://www.uniprot.org/uniprot/Q9UJA3
+MGME1	46	INT	INT(38),UT3(2),2KU(1),2KD(5)				Q9BQP7[WEB:]https://www.uniprot.org/uniprot/Q9BQP7
+MKKS	21	IND	IND(1),MIS(1),INT(16),UT3(1),2KU(1),2KD(1)		8	http://www.ncbi.nlm.nih.gov/pubmed?term=MKKS[TIAB] AND cancer[MH]	Q9NPJ1[WEB:]https://www.uniprot.org/uniprot/Q9NPJ1
+MMP24	27	INT	INT(25),UT3(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=MMP24[TIAB] AND cancer[MH]	Q9Y5R2[WEB:]https://www.uniprot.org/uniprot/Q9Y5R2
+MMP24-AS1	1	2KD	2KD(1)				
+MOCS3	9	UT3	UT3(2),2KU(3),2KD(4)				O95396[WEB:]https://www.uniprot.org/uniprot/O95396
+MRGBP	9	INT	INT(3),UT3(3),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=MRGBP[TIAB] AND cancer[MH]	Q9NV56[WEB:]https://www.uniprot.org/uniprot/Q9NV56
+MROH8	80	SYN	SYN(2),INT(75),UT3(1),2KU(2)				Q9H579[WEB:]https://www.uniprot.org/uniprot/Q9H579
+MRPS26	27	FSI	FSI(1),MIS(2),SYN(1),INT(2),UT5(1),UT3(1),2KU(11),2KD(8)				Q9BYN8[WEB:]https://www.uniprot.org/uniprot/Q9BYN8
+MTG2	56	STG	STG(1),SPL(1),MIS(5),SYN(3),INT(30),UT3(6),2KU(4),2KD(6)				Q9H4K7[WEB:]https://www.uniprot.org/uniprot/Q9H4K7
+MTRNR2L3	17	UT5	UT5(3),2KU(11),2KD(3)				P0CJ70[WEB:]https://www.uniprot.org/uniprot/P0CJ70
+MYBL2	49	MIS	MIS(1),INT(45),2KU(2),2KD(1)		43	http://www.ncbi.nlm.nih.gov/pubmed?term=MYBL2[TIAB] AND cancer[MH]	P10244[WEB:]https://www.uniprot.org/uniprot/P10244
+MYH7B	22	MIS	MIS(6),SYN(2),INT(11),2KU(2),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=MYH7B[TIAB] AND cancer[MH]	A7E2Y1[WEB:]https://www.uniprot.org/uniprot/A7E2Y1
+MYL9	30	INT	INT(17),UT3(5),2KU(2),2KD(6)		11	http://www.ncbi.nlm.nih.gov/pubmed?term=MYL9[TIAB] AND cancer[MH]	P24844[WEB:]https://www.uniprot.org/uniprot/P24844
+MYLK2	69	FSD	FSD(1),STG(1),MIS(5),SYN(4),INT(47),UT3(2),2KU(5),2KD(4)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=MYLK2[TIAB] AND cancer[MH]	Q9H1R3[WEB:]https://www.uniprot.org/uniprot/Q9H1R3
+NAA20	41	SYN	SYN(1),INT(33),UT3(5),2KU(1),2KD(1)				P61599[WEB:]https://www.uniprot.org/uniprot/P61599
+NANP	23	INT	INT(9),UT3(4),2KU(3),2KD(7)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=NANP[TIAB] AND cancer[MH]	Q8TBE9[WEB:]https://www.uniprot.org/uniprot/Q8TBE9
+NAPB	94	FSI	FSI(1),FSD(1),SYN(2),INT(77),UT3(4),2KU(5),2KD(4)		63	http://www.ncbi.nlm.nih.gov/pubmed?term=NAPB[MH] AND cancer[MH]	Q9H115[WEB:]https://www.uniprot.org/uniprot/Q9H115
+NCOA3	222	MIS	MIS(2),INT(211),UT3(4),2KU(3),2KD(2)		35	http://www.ncbi.nlm.nih.gov/pubmed?term=NCOA3[TIAB] AND cancer[MH]	Q9Y6Q9[WEB:]https://www.uniprot.org/uniprot/Q9Y6Q9
+NCOA5	28	INT	INT(26),2KU(1),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=NCOA5[TIAB] AND cancer[MH]	Q9HCD5[WEB:]https://www.uniprot.org/uniprot/Q9HCD5
+NCOA6	105	FSD	FSD(1),MIS(4),SYN(5),INT(91),UT3(1),2KU(1),2KD(2)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=NCOA6[TIAB] AND cancer[MH]	Q14686[WEB:]https://www.uniprot.org/uniprot/Q14686
+NDRG3	65	STG	STG(1),INT(64)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=NDRG3[TIAB] AND cancer[MH]	Q9UGV2[WEB:]https://www.uniprot.org/uniprot/Q9UGV2
+NDUFAF5	55	FSD	FSD(1),MIS(1),INT(44),UT3(4),2KU(2),2KD(3)				Q5TEU4[WEB:]https://www.uniprot.org/uniprot/Q5TEU4
+NECAB3	26	IND	IND(1),INT(19),UT5(1),UT3(2),2KU(1),2KD(2)				Q96P71[WEB:]https://www.uniprot.org/uniprot/Q96P71
+NELFCD	28	MIS	MIS(3),SYN(2),INT(18),UT3(1),2KU(4)				Q8IXH7[WEB:]https://www.uniprot.org/uniprot/Q8IXH7
+NEURL2	12	MIS	MIS(1),INT(5),2KU(3),2KD(3)				Q9BR09[WEB:]https://www.uniprot.org/uniprot/Q9BR09
+NFATC2	198	INT	INT(185),UT3(9),2KD(4)		18	http://www.ncbi.nlm.nih.gov/pubmed?term=NFATC2[TIAB] AND cancer[MH]	Q13469[WEB:]https://www.uniprot.org/uniprot/Q13469
+NFS1	27	SYN	SYN(1),INT(21),UT3(1),2KU(3),2KD(1)				Q9Y697[WEB:]https://www.uniprot.org/uniprot/Q9Y697
+NINL	176	MIS	MIS(3),SYN(1),INT(169),2KU(2),2KD(1)				Q9Y2I6[WEB:]https://www.uniprot.org/uniprot/Q9Y2I6
+NKX2-2	8	MIS	MIS(3),INT(1),UT5(1),UT3(1),2KU(2)		35	http://www.ncbi.nlm.nih.gov/pubmed?term=NKX2-2[TIAB] AND cancer[MH]	O95096[WEB:]https://www.uniprot.org/uniprot/O95096
+NKX2-4	3	UT5	UT5(1),UT3(1),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=NKX2-4[TIAB] AND cancer[MH]	Q9H2Z4[WEB:]https://www.uniprot.org/uniprot/Q9H2Z4
+NNAT	3	UT3	UT3(1),2KU(1),2KD(1)		27	http://www.ncbi.nlm.nih.gov/pubmed?term=NNAT[TIAB] AND cancer[MH]	Q16517[WEB:]https://www.uniprot.org/uniprot/Q16517
+NOL4L	267	MIS	MIS(4),SYN(3),INT(250),UT3(7),2KU(2),2KD(1)				Q96MY1[WEB:]https://www.uniprot.org/uniprot/Q96MY1
+NOP56	17	FSD	FSD(1),MIS(1),SYN(1),INT(5),UT5(3),2KU(3),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=NOP56[TIAB] AND cancer[TIAB]	O00567[WEB:]https://www.uniprot.org/uniprot/O00567
+NPEPL1	93	FSD	FSD(1),SPL(1),MIS(2),SYN(3),INT(74),UT5(1),2KU(7),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=NPEPL1[TIAB] AND cancer[MH]	Q8NDH3[WEB:]https://www.uniprot.org/uniprot/Q8NDH3
+NRSN2	80	SPL	SPL(1),MIS(2),SYN(1),INT(56),UT5(2),2KD(18)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=NRSN2[TIAB] AND cancer[MH]	Q9GZP1[WEB:]https://www.uniprot.org/uniprot/Q9GZP1
+NSFL1C	37	FSD	FSD(1),SYN(3),INT(29),UT3(1),2KU(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=NSFL1C[TIAB] AND cancer[MH]	Q9UNZ2[WEB:]https://www.uniprot.org/uniprot/Q9UNZ2
+NTSR1	112	MIS	MIS(1),SYN(1),INT(99),UT3(5),2KU(3),2KD(3)		18	http://www.ncbi.nlm.nih.gov/pubmed?term=NTSR1[TIAB] AND cancer[MH]	P30989[WEB:]https://www.uniprot.org/uniprot/P30989
+NXT1	10	INT	INT(6),UT5(1),2KU(3)				Q9UKK6[WEB:]https://www.uniprot.org/uniprot/Q9UKK6
+OCSTAMP	23	FSI	FSI(1),SYN(2),INT(12),UT3(1),2KU(6),2KD(1)				Q9BR26[WEB:]https://www.uniprot.org/uniprot/Q9BR26
+OGFR	14	INT	INT(12),2KU(2)		38	http://www.ncbi.nlm.nih.gov/pubmed?term=OGFR[TIAB] AND cancer[MH]	Q9NZT2[WEB:]https://www.uniprot.org/uniprot/Q9NZT2
+OSBPL2	135	INT	INT(122),UT3(4),2KU(8),2KD(1)				Q9H1P3[WEB:]https://www.uniprot.org/uniprot/Q9H1P3
+OSER1	58	STG	STG(1),MIS(2),SYN(1),INT(33),UT3(1),2KD(20)				Q9NX31[WEB:]https://www.uniprot.org/uniprot/Q9NX31
+OTOR	8	SYN	SYN(1),INT(1),UT5(1),UT3(1),2KU(1),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=OTOR[TIAB] AND cancer[MH]	Q9NRC9[WEB:]https://www.uniprot.org/uniprot/Q9NRC9
+OVOL2	87	SYN	SYN(1),INT(73),2KU(11),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=OVOL2[TIAB] AND cancer[TIAB]	Q9BRP0[WEB:]https://www.uniprot.org/uniprot/Q9BRP0
+OXT	8	INT	INT(1),2KU(4),2KD(3)		14	http://www.ncbi.nlm.nih.gov/pubmed?term=OXT[TIAB] AND cancer[MH]	P01178[WEB:]https://www.uniprot.org/uniprot/P01178
+PABPC1L	84	STL	STL(1),SYN(3),INT(66),UT5(1),UT3(1),2KU(6),2KD(6)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PABPC1L[TIAB] AND cancer[MH]	Q4VXU2[WEB:]https://www.uniprot.org/uniprot/Q4VXU2
+PAK7	658	MIS	MIS(4),SYN(2),INT(647),UT5(1),2KU(2),2KD(2)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=PAK7[TIAB] AND cancer[MH]	
+PANK2	96	MIS	MIS(1),SYN(1),INT(70),UT3(10),2KU(4),2KD(10)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PANK2[TIAB] AND cancer[TIAB]	Q9BZ23[WEB:]https://www.uniprot.org/uniprot/Q9BZ23
+PARD6B	115	FSI	FSI(1),INT(95),UT5(3),2KU(3),2KD(13)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PARD6B[TIAB] AND cancer[MH]	Q9BYG5[WEB:]https://www.uniprot.org/uniprot/Q9BYG5
+PAX1	6	FSD	FSD(1),INT(1),UT3(3),2KD(1)		12	http://www.ncbi.nlm.nih.gov/pubmed?term=PAX1[TIAB] AND cancer[MH]	P15863[WEB:]https://www.uniprot.org/uniprot/P15863
+PCED1A	37	FSD	FSD(1),IND(1),MIS(3),INT(14),UT3(1),2KU(3),2KD(14)				Q9H1Q7[WEB:]https://www.uniprot.org/uniprot/Q9H1Q7
+PCIF1	21	MIS	MIS(2),INT(12),UT5(1),2KU(3),2KD(3)				Q9H4Z3[WEB:]https://www.uniprot.org/uniprot/Q9H4Z3
+PCK1	26	MIS	MIS(2),SYN(1),INT(4),UT3(9),2KU(5),2KD(5)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=PCK1[TIAB] AND cancer[MH]	P35558[WEB:]https://www.uniprot.org/uniprot/P35558
+PCNA	33	SYN	SYN(1),INT(28),UT5(1),2KU(1),2KD(2)		4282	http://www.ncbi.nlm.nih.gov/pubmed?term=PCNA[MH] AND cancer[MH]	P12004[WEB:]https://www.uniprot.org/uniprot/P12004
+PCSK2	583	FSI	FSI(1),MIS(2),INT(560),UT5(2),UT3(5),2KU(5),2KD(8)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=PCSK2[TIAB] AND cancer[MH]	P16519[WEB:]https://www.uniprot.org/uniprot/P16519
+PDRG1	16	MIS	MIS(1),INT(4),UT5(2),UT3(7),2KU(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=PDRG1[TIAB] AND cancer[MH]	Q9NUG6[WEB:]https://www.uniprot.org/uniprot/Q9NUG6
+PDYN	45	MIS	MIS(1),INT(23),UT5(1),UT3(3),2KU(11),2KD(6)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=PDYN[TIAB] AND cancer[MH]	P01213[WEB:]https://www.uniprot.org/uniprot/P01213
+PET117	9	INT	INT(4),UT3(1),2KU(1),2KD(3)				Q6UWS5[WEB:]https://www.uniprot.org/uniprot/Q6UWS5
+PFDN4	59	FSD	FSD(1),INT(46),UT3(4),2KU(5),2KD(3)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=PFDN4[TIAB] AND cancer[MH]	Q9NQP4[WEB:]https://www.uniprot.org/uniprot/Q9NQP4
+PHACTR3	544	MIS	MIS(3),SYN(1),INT(533),2KU(2),2KD(5)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=PHACTR3[TIAB] AND cancer[MH]	Q96KR7[WEB:]https://www.uniprot.org/uniprot/Q96KR7
+PHF20	377	FSI	FSI(1),STG(1),MIS(3),INT(363),UT3(3),2KU(2),2KD(4)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=PHF20[TIAB] AND cancer[MH]	Q9BVI0[WEB:]https://www.uniprot.org/uniprot/Q9BVI0
+PI3	10	MIS	MIS(1),SYN(1),INT(1),2KU(1),2KD(6)		1171	http://www.ncbi.nlm.nih.gov/pubmed?term=PI3[TIAB] AND cancer[MH]	P19957[WEB:]https://www.uniprot.org/uniprot/P19957
+PIGT	26	MIS	MIS(3),SYN(3),INT(11),UT3(2),2KU(4),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=PIGT[TIAB] AND cancer[MH]	Q969N2[WEB:]https://www.uniprot.org/uniprot/Q969N2
+PIGU	164	INT	INT(158),2KU(4),2KD(2)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=PIGU[TIAB] AND cancer[MH]	Q9H490[WEB:]https://www.uniprot.org/uniprot/Q9H490
+PKIG	95	INT	INT(84),UT5(1),UT3(1),2KU(2),2KD(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PKIG[TIAB] AND cancer[MH]	Q9Y2B9[WEB:]https://www.uniprot.org/uniprot/Q9Y2B9
+PLAGL2	10	INT	INT(6),UT3(3),2KU(1)		11	http://www.ncbi.nlm.nih.gov/pubmed?term=PLAGL2[TIAB] AND cancer[MH]	Q9UPG8[WEB:]https://www.uniprot.org/uniprot/Q9UPG8
+PLCB1	1437	STG	STG(1),MIS(3),SYN(2),INT(1420),UT3(1),2KU(3),2KD(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PLCB1[TIAB] AND cancer[MH]	Q9NQ66[WEB:]https://www.uniprot.org/uniprot/Q9NQ66
+PLCB4	431	MIS	MIS(1),INT(416),UT5(2),2KU(12)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PLCB4[TIAB] AND cancer[MH]	Q15147[WEB:]https://www.uniprot.org/uniprot/Q15147
+PLCG1	68	MIS	MIS(5),SYN(3),INT(43),UT5(1),UT3(9),2KU(4),2KD(3)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=PLCG1[TIAB] AND cancer[MH]	P19174[WEB:]https://www.uniprot.org/uniprot/P19174
+PLTP	13	INT	INT(9),UT3(1),2KD(3)		9	http://www.ncbi.nlm.nih.gov/pubmed?term=PLTP[TIAB] AND cancer[MH]	P55058[WEB:]https://www.uniprot.org/uniprot/P55058
+PMEPA1	153	FSD	FSD(1),MIS(2),INT(130),UT3(10),2KU(5),2KD(5)		21	http://www.ncbi.nlm.nih.gov/pubmed?term=PMEPA1[TIAB] AND cancer[MH]	Q969W9[WEB:]https://www.uniprot.org/uniprot/Q969W9
+POFUT1	36	INT	INT(32),UT3(2),2KU(1),2KD(1)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=POFUT1[TIAB] AND cancer[MH]	Q9H488[WEB:]https://www.uniprot.org/uniprot/Q9H488
+POLR3F	41	FSI	FSI(1),MIS(1),SYN(2),INT(25),UT3(4),2KU(4),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=POLR3F[TIAB] AND cancer[MH]	Q9H1D9[WEB:]https://www.uniprot.org/uniprot/Q9H1D9
+PPP1R16B	166	MIS	MIS(1),INT(156),UT5(1),UT3(2),2KU(5),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PPP1R16B[TIAB] AND cancer[TIAB]	Q96T49[WEB:]https://www.uniprot.org/uniprot/Q96T49
+PPP1R3D	18	MIS	MIS(1),SYN(1),UT5(1),UT3(4),2KU(5),2KD(6)				O95685[WEB:]https://www.uniprot.org/uniprot/O95685
+PRELID3B	30	INT	INT(11),UT3(5),2KU(3),2KD(11)				Q9Y3B1[WEB:]https://www.uniprot.org/uniprot/Q9Y3B1
+PREX1	300	IND	IND(1),INT(298),UT3(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=PREX1[TIAB] AND cancer[MH]	Q8TCU6[WEB:]https://www.uniprot.org/uniprot/Q8TCU6
+PRND	31	INT	INT(6),UT5(1),UT3(14),2KU(9),2KD(1)		8	http://www.ncbi.nlm.nih.gov/pubmed?term=PRND[TIAB] AND cancer[MH]	Q9UKY0[WEB:]https://www.uniprot.org/uniprot/Q9UKY0
+PRNP	28	SYN	SYN(1),INT(12),UT5(1),UT3(1),2KU(3),2KD(10)		23	http://www.ncbi.nlm.nih.gov/pubmed?term=PRNP[TIAB] AND cancer[MH]	F7VJQ1;P04156[WEB:]https://www.uniprot.org/uniprot/F7VJQ1;P04156
+PRNT	66	INT	INT(44),UT5(1),UT3(4),2KU(13),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PRNT[TIAB] AND cancer[MH]	Q86SH4[WEB:]https://www.uniprot.org/uniprot/Q86SH4
+PROCR	3	INT	INT(2),UT3(1)		7	http://www.ncbi.nlm.nih.gov/pubmed?term=PROCR[TIAB] AND cancer[MH]	Q9UNN8[WEB:]https://www.uniprot.org/uniprot/Q9UNN8
+PROKR2	59	FSD	FSD(2),MIS(2),SYN(5),INT(26),2KU(11),2KD(13)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PROKR2[TIAB] AND cancer[MH]	Q8NFJ6[WEB:]https://www.uniprot.org/uniprot/Q8NFJ6
+PSMA7	34	SPL	SPL(1),SYN(1),INT(24),2KU(5),2KD(3)		11	http://www.ncbi.nlm.nih.gov/pubmed?term=PSMA7[TIAB] AND cancer[MH]	O14818[WEB:]https://www.uniprot.org/uniprot/O14818
+PSMF1	46	INT	INT(41),2KU(1),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PSMF1[TIAB] AND cancer[MH]	Q92530[WEB:]https://www.uniprot.org/uniprot/Q92530
+PTGIS	94	MIS	MIS(1),INT(79),UT3(9),2KU(2),2KD(3)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=PTGIS[TIAB] AND cancer[MH]	Q16647[WEB:]https://www.uniprot.org/uniprot/Q16647
+PTPN1	183	SYN	SYN(2),INT(167),UT5(1),UT3(3),2KU(3),2KD(7)		25	http://www.ncbi.nlm.nih.gov/pubmed?term=PTPN1[TIAB] AND cancer[MH]	P18031[WEB:]https://www.uniprot.org/uniprot/P18031
+PTPRA	224	FSD	FSD(1),MIS(1),SYN(3),INT(199),UT3(12),2KU(4),2KD(4)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=PTPRA[TIAB] AND cancer[MH]	P18433[WEB:]https://www.uniprot.org/uniprot/P18433
+PTPRT	2079	MIS	MIS(4),SYN(3),INT(2052),UT3(13),2KD(7)		71	http://www.ncbi.nlm.nih.gov/pubmed?term=PTPRT[MH] AND cancer[MH]	O14522[WEB:]https://www.uniprot.org/uniprot/O14522
+PXMP4	67	SYN	SYN(1),INT(43),UT5(1),UT3(14),2KU(2),2KD(6)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=PXMP4[TIAB] AND cancer[TIAB]	Q9Y6I8[WEB:]https://www.uniprot.org/uniprot/Q9Y6I8
+PYGB	63	MIS	MIS(2),SYN(2),INT(47),UT3(4),2KU(3),2KD(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=PYGB[TIAB] AND cancer[MH]	P11216[WEB:]https://www.uniprot.org/uniprot/P11216
+R3HDML	33	MIS	MIS(2),SYN(1),INT(21),UT3(1),2KU(5),2KD(3)				Q9H3Y0[WEB:]https://www.uniprot.org/uniprot/Q9H3Y0
+RAB22A	175	MIS	MIS(2),SYN(2),INT(128),UT5(1),UT3(34),2KU(6),2KD(2)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=RAB22A[TIAB] AND cancer[MH]	Q9UL26[WEB:]https://www.uniprot.org/uniprot/Q9UL26
+RAD21L1	93	MIS	MIS(1),INT(88),2KD(4)				Q9H4I0[WEB:]https://www.uniprot.org/uniprot/Q9H4I0
+RAE1	96	MIS	MIS(2),SYN(2),INT(76),UT5(1),UT3(2),2KU(8),2KD(5)		21	http://www.ncbi.nlm.nih.gov/pubmed?term=RAE1[TIAB] AND cancer[MH]	P78406[WEB:]https://www.uniprot.org/uniprot/P78406
+RALGAPA2	410	MIS	MIS(4),SYN(4),INT(396),UT3(3),2KU(1),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RALGAPA2[TIAB] AND cancer[MH]	Q2PPJ7[WEB:]https://www.uniprot.org/uniprot/Q2PPJ7
+RALGAPB	107	FSI	FSI(1),FSD(1),MIS(2),SYN(1),INT(98),2KU(3),2KD(1)				Q86X10[WEB:]https://www.uniprot.org/uniprot/Q86X10
+RALY	138	MIS	MIS(2),INT(131),UT3(3),2KU(2)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=RALY[TIAB] AND cancer[MH]	Q9UKM9[WEB:]https://www.uniprot.org/uniprot/Q9UKM9
+RASSF2	200	SPL	SPL(1),MIS(4),SYN(4),INT(163),UT5(1),UT3(10),2KU(2),2KD(15)		34	http://www.ncbi.nlm.nih.gov/pubmed?term=RASSF2[TIAB] AND cancer[MH]	P50749[WEB:]https://www.uniprot.org/uniprot/P50749
+RBBP8NL	59	MIS	MIS(1),SYN(4),INT(32),UT3(7),2KU(1),2KD(14)				Q8NC74[WEB:]https://www.uniprot.org/uniprot/Q8NC74
+RBBP9	23	FSD	FSD(1),INT(8),UT5(1),UT3(6),2KU(2),2KD(5)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=RBBP9[TIAB] AND cancer[MH]	O75884[WEB:]https://www.uniprot.org/uniprot/O75884
+RBCK1	62	MIS	MIS(1),INT(47),UT5(2),2KU(10),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RBCK1[TIAB] AND cancer[MH]	Q9BYM8[WEB:]https://www.uniprot.org/uniprot/Q9BYM8
+RBL1	162	MIS	MIS(1),INT(140),UT3(7),2KU(3),2KD(11)		15	http://www.ncbi.nlm.nih.gov/pubmed?term=RBL1[TIAB] AND cancer[MH]	P28749[WEB:]https://www.uniprot.org/uniprot/P28749
+RBM12	17	SYN	SYN(1),INT(8),UT5(1),UT3(2),2KU(2),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RBM12[TIAB] AND cancer[MH]	Q9NTZ6[WEB:]https://www.uniprot.org/uniprot/Q9NTZ6
+RBM38	12	INT	INT(10),UT3(1),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=RBM38[TIAB] AND cancer[TIAB]	Q9H0Z9[WEB:]https://www.uniprot.org/uniprot/Q9H0Z9
+RBM39	32	SYN	SYN(1),INT(28),UT5(2),2KU(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=RBM39[TIAB] AND cancer[MH]	Q14498[WEB:]https://www.uniprot.org/uniprot/Q14498
+RBPJL	12	MIS	MIS(2),SYN(1),INT(3),UT3(1),2KU(3),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RBPJL[TIAB] AND cancer[MH]	Q9UBG7[WEB:]https://www.uniprot.org/uniprot/Q9UBG7
+REM1	7	INT	INT(6),2KU(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=REM1[TIAB] AND cancer[MH]	O75628[WEB:]https://www.uniprot.org/uniprot/O75628
+RIMS4	111	STG	STG(1),SYN(1),INT(105),UT3(3),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RIMS4[TIAB] AND cancer[MH]	Q9H426[WEB:]https://www.uniprot.org/uniprot/Q9H426
+RIN2	278	MIS	MIS(3),SYN(1),INT(263),UT5(1),UT3(4),2KU(4),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=RIN2[TIAB] AND cancer[MH]	Q8WYP3[WEB:]https://www.uniprot.org/uniprot/Q8WYP3
+RNF114	43	MIS	MIS(1),INT(30),UT3(3),2KU(5),2KD(4)				Q9Y508[WEB:]https://www.uniprot.org/uniprot/Q9Y508
+RNF24	104	FSD	FSD(1),INT(79),UT3(17),2KD(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RNF24[TIAB] AND cancer[MH]	Q9Y225[WEB:]https://www.uniprot.org/uniprot/Q9Y225
+ROMO1	5	INT	INT(2),2KU(2),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=ROMO1[TIAB] AND cancer[MH]	P60602[WEB:]https://www.uniprot.org/uniprot/P60602
+RP4-576H24.4	62	INT	INT(56),2KU(3),2KD(3)				
+RP5-1187M17.10	41	SYN	SYN(4),INT(15),UT5(2),UT3(8),2KU(6),2KD(6)				
+RP5-850E9.3	82	INT	INT(65),UT5(1),UT3(9),2KU(3),2KD(4)				
+RP5-860F19.8	6	MIS	MIS(1),SYN(1),INT(2),2KD(2)				
+RPN2	119	MIS	MIS(2),SYN(1),INT(110),2KU(4),2KD(2)		12	http://www.ncbi.nlm.nih.gov/pubmed?term=RPN2[TIAB] AND cancer[MH]	P04844[WEB:]https://www.uniprot.org/uniprot/P04844
+RPRD1B	158	SPL	SPL(1),SYN(1),INT(141),UT5(1),UT3(6),2KU(4),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RPRD1B[TIAB] AND cancer[TIAB]	Q9NQG5[WEB:]https://www.uniprot.org/uniprot/Q9NQG5
+RPS21	19	FSD	FSD(1),INT(3),2KU(4),2KD(11)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=RPS21[TIAB] AND cancer[MH]	P63220[WEB:]https://www.uniprot.org/uniprot/P63220
+RRBP1	102	FSD	FSD(1),MIS(3),SYN(2),INT(88),2KU(3),2KD(5)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=RRBP1[TIAB] AND cancer[MH]	Q9P2E9[WEB:]https://www.uniprot.org/uniprot/Q9P2E9
+RSPO4	130	SPL	SPL(1),MIS(2),SYN(1),INT(116),UT5(1),UT3(3),2KU(4),2KD(2)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=RSPO4[TIAB] AND cancer[MH]	Q2I0M5[WEB:]https://www.uniprot.org/uniprot/Q2I0M5
+RTFDC1	128	SYN	SYN(1),INT(113),UT5(1),UT3(3),2KU(6),2KD(4)				
+SALL4	53	MIS	MIS(3),SYN(2),INT(39),UT3(3),2KU(4),2KD(2)		63	http://www.ncbi.nlm.nih.gov/pubmed?term=SALL4[TIAB] AND cancer[MH]	Q9UJQ4[WEB:]https://www.uniprot.org/uniprot/Q9UJQ4
+SAMHD1	97	SPL	SPL(1),MIS(2),INT(84),UT3(2),2KU(4),2KD(4)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=SAMHD1[TIAB] AND cancer[MH]	Q9Y3Z3[WEB:]https://www.uniprot.org/uniprot/Q9Y3Z3
+SCAND1	19	INT	INT(10),UT5(2),2KU(3),2KD(4)				P57086[WEB:]https://www.uniprot.org/uniprot/P57086
+SCRT2	43	MIS	MIS(3),SYN(1),INT(23),UT5(3),UT3(5),2KU(2),2KD(6)				Q9NQ03[WEB:]https://www.uniprot.org/uniprot/Q9NQ03
+SDC4	26	INT	INT(18),2KU(8)		13	http://www.ncbi.nlm.nih.gov/pubmed?term=SDC4[TIAB] AND cancer[MH]	P31431[WEB:]https://www.uniprot.org/uniprot/P31431
+SDCBP2	48	MIS	MIS(1),INT(44),UT3(1),2KU(1),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SDCBP2[TIAB] AND cancer[MH]	Q9H190[WEB:]https://www.uniprot.org/uniprot/Q9H190
+SEC23B	145	FSD	FSD(1),MIS(2),SYN(2),INT(128),UT5(3),UT3(1),2KU(6),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SEC23B[TIAB] AND cancer[MH]	Q15437[WEB:]https://www.uniprot.org/uniprot/Q15437
+SEL1L2	170	SPL	SPL(1),SYN(1),INT(166),2KU(1),2KD(1)				Q5TEA6[WEB:]https://www.uniprot.org/uniprot/Q5TEA6
+SEMG1	24	FSI	FSI(1),MIS(4),SYN(1),INT(2),UT5(1),2KU(10),2KD(5)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SEMG1[TIAB] AND cancer[MH]	P04279[WEB:]https://www.uniprot.org/uniprot/P04279
+SEMG2	15	STG	STG(1),MIS(3),SYN(4),INT(1),2KU(2),2KD(4)				Q02383[WEB:]https://www.uniprot.org/uniprot/Q02383
+SERINC3	39	FSD	FSD(1),SPL(1),MIS(1),INT(26),UT5(1),2KU(8),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SERINC3[TIAB] AND cancer[MH]	Q13530[WEB:]https://www.uniprot.org/uniprot/Q13530
+SGK2	47	INT	INT(30),UT5(2),2KU(14),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SGK2[TIAB] AND cancer[MH]	Q9HBY8[WEB:]https://www.uniprot.org/uniprot/Q9HBY8
+SIGLEC1	61	FSI	FSI(1),FSD(3),SPL(1),MIS(3),SYN(3),INT(40),UT3(3),2KU(4),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SIGLEC1[TIAB] AND cancer[MH]	Q9BZZ2[WEB:]https://www.uniprot.org/uniprot/Q9BZZ2
+SIRPA	135	FSD	FSD(1),MIS(2),SYN(2),INT(112),UT5(1),UT3(3),2KU(7),2KD(7)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=SIRPA[TIAB] AND cancer[MH]	P78324[WEB:]https://www.uniprot.org/uniprot/P78324
+SIRPB1	46	SYN	SYN(1),INT(42),2KU(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SIRPB1[TIAB] AND cancer[MH]	O00241;Q5TFQ8[WEB:]https://www.uniprot.org/uniprot/O00241;Q5TFQ8
+SIRPB2	43	FSI	FSI(1),INT(27),UT3(5),2KU(5),2KD(5)				Q5JXA9[WEB:]https://www.uniprot.org/uniprot/Q5JXA9
+SIRPD	83	INT	INT(73),UT5(2),UT3(1),2KU(3),2KD(4)				Q9H106[WEB:]https://www.uniprot.org/uniprot/Q9H106
+SIRPG	76	STG	STG(1),IND(1),MIS(3),INT(55),UT5(1),UT3(5),2KU(4),2KD(6)				Q9P1W8[WEB:]https://www.uniprot.org/uniprot/Q9P1W8
+SLA2	21	INT	INT(16),UT5(1),UT3(1),2KD(3)				Q9H6Q3[WEB:]https://www.uniprot.org/uniprot/Q9H6Q3
+SLC12A5	10	MIS	MIS(1),SYN(1),INT(7),UT3(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC12A5[TIAB] AND cancer[MH]	Q9H2X9[WEB:]https://www.uniprot.org/uniprot/Q9H2X9
+SLC13A3	235	MIS	MIS(1),SYN(2),INT(209),UT5(1),UT3(4),2KU(11),2KD(7)				Q8WWT9[WEB:]https://www.uniprot.org/uniprot/Q8WWT9
+SLC17A9	2	INT	INT(1),2KU(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC17A9[TIAB] AND cancer[MH]	Q9BYT1[WEB:]https://www.uniprot.org/uniprot/Q9BYT1
+SLC23A2	293	FSI	FSI(1),MIS(5),INT(269),UT3(10),2KU(5),2KD(3)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC23A2[TIAB] AND cancer[MH]	Q9UGH3[WEB:]https://www.uniprot.org/uniprot/Q9UGH3
+SLC24A3	940	MIS	MIS(2),SYN(1),INT(922),UT3(5),2KU(3),2KD(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC24A3[TIAB] AND cancer[MH]	Q9HC58[WEB:]https://www.uniprot.org/uniprot/Q9HC58
+SLC2A10	46	MIS	MIS(1),SYN(1),INT(32),UT3(7),2KD(5)				O95528[WEB:]https://www.uniprot.org/uniprot/O95528
+SLC32A1	36	FSI	FSI(1),MIS(4),SYN(3),INT(17),2KU(9),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC32A1[TIAB] AND cancer[MH]	Q9H598[WEB:]https://www.uniprot.org/uniprot/Q9H598
+SLC35C2	35	MIS	MIS(1),INT(21),UT3(6),2KU(7)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC35C2[TIAB] AND cancer[TIAB]	Q9NQQ7[WEB:]https://www.uniprot.org/uniprot/Q9NQQ7
+SLC4A11	11	MIS	MIS(1),INT(6),2KU(1),2KD(3)				Q8NBS3[WEB:]https://www.uniprot.org/uniprot/Q8NBS3
+SLC52A3	63	MIS	MIS(6),SYN(3),INT(44),UT5(1),UT3(1),2KU(4),2KD(4)				Q9NQ40[WEB:]https://www.uniprot.org/uniprot/Q9NQ40
+SLC9A8	152	FSD	FSD(3),MIS(1),INT(137),UT3(5),2KU(4),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SLC9A8[TIAB] AND cancer[MH]	Q9Y2E8[WEB:]https://www.uniprot.org/uniprot/Q9Y2E8
+SLCO4A1	41	STG	STG(1),SYN(2),INT(33),2KU(4),2KD(1)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=SLCO4A1[TIAB] AND cancer[MH]	Q96BD0[WEB:]https://www.uniprot.org/uniprot/Q96BD0
+SLPI	10	INT	INT(3),2KU(6),2KD(1)		76	http://www.ncbi.nlm.nih.gov/pubmed?term=SLPI[TIAB] AND cancer[MH]	P03973[WEB:]https://www.uniprot.org/uniprot/P03973
+SLX4IP	220	INT	INT(218),UT3(1),2KU(1)				Q5VYV7[WEB:]https://www.uniprot.org/uniprot/Q5VYV7
+SMOX	92	SYN	SYN(1),INT(83),UT3(2),2KU(1),2KD(5)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SMOX[TIAB] AND cancer[MH]	Q9NWM0[WEB:]https://www.uniprot.org/uniprot/Q9NWM0
+SNAI1	14	MIS	MIS(1),INT(10),2KU(3)		88	http://www.ncbi.nlm.nih.gov/pubmed?term=SNAI1[TIAB] AND cancer[MH]	O95863[WEB:]https://www.uniprot.org/uniprot/O95863
+SNAP25	129	INT	INT(109),UT5(2),UT3(1),2KU(16),2KD(1)		10	http://www.ncbi.nlm.nih.gov/pubmed?term=SNAP25[TIAB] AND cancer[MH]	P60880[WEB:]https://www.uniprot.org/uniprot/P60880
+SNPH	90	MIS	MIS(2),SYN(2),INT(70),UT3(6),2KU(5),2KD(5)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SNPH[TIAB] AND cancer[MH]	O15079[WEB:]https://www.uniprot.org/uniprot/O15079
+SNRPB	15	INT	INT(11),2KU(1),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SNRPB[TIAB] AND cancer[MH]	P14678[WEB:]https://www.uniprot.org/uniprot/P14678
+SNRPB2	36	FSI	FSI(1),MIS(1),SYN(1),INT(21),UT3(5),2KU(4),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SNRPB2[TIAB] AND cancer[MH]	P08579[WEB:]https://www.uniprot.org/uniprot/P08579
+SNTA1	46	FSI	FSI(1),SYN(1),INT(39),UT3(1),2KU(1),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SNTA1[TIAB] AND cancer[MH]	Q13424[WEB:]https://www.uniprot.org/uniprot/Q13424
+SNX21	26	FSI	FSI(1),SYN(2),INT(18),UT3(1),2KU(1),2KD(3)				Q969T3[WEB:]https://www.uniprot.org/uniprot/Q969T3
+SNX5	8	INT	INT(7),2KD(1)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=SNX5[TIAB] AND cancer[MH]	Q9Y5X3[WEB:]https://www.uniprot.org/uniprot/Q9Y5X3
+SOGA1	120	FSD	FSD(1),MIS(1),SYN(5),INT(110),UT3(1),2KU(1),2KD(1)				O94964[WEB:]https://www.uniprot.org/uniprot/O94964
+SOX12	13	MIS	MIS(1),UT5(1),UT3(4),2KU(2),2KD(5)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=SOX12[TIAB] AND cancer[MH]	O15370[WEB:]https://www.uniprot.org/uniprot/O15370
+SPAG4	4	INT	INT(3),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=SPAG4[TIAB] AND cancer[MH]	Q9NPE6[WEB:]https://www.uniprot.org/uniprot/Q9NPE6
+SPATA2	26	SYN	SYN(1),INT(12),UT3(3),2KU(9),2KD(1)				Q9UM82[WEB:]https://www.uniprot.org/uniprot/Q9UM82
+SPATA25	13	SYN	SYN(1),2KU(7),2KD(5)				Q9BR10[WEB:]https://www.uniprot.org/uniprot/Q9BR10
+SPEF1	15	FSD	FSD(1),SYN(1),INT(4),UT5(1),UT3(2),2KU(1),2KD(5)				Q9Y4P9[WEB:]https://www.uniprot.org/uniprot/Q9Y4P9
+SPINT3	11	INT	INT(10),2KD(1)				P49223[WEB:]https://www.uniprot.org/uniprot/P49223
+SPINT4	3	2KD	2KD(3)				Q6UDR6[WEB:]https://www.uniprot.org/uniprot/Q6UDR6
+SPO11	25	SYN	SYN(2),INT(18),2KD(5)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=SPO11[TIAB] AND cancer[MH]	Q9Y5K1[WEB:]https://www.uniprot.org/uniprot/Q9Y5K1
+SPTLC3	260	INT	INT(257),UT3(2),2KU(1)				Q9NUV7[WEB:]https://www.uniprot.org/uniprot/Q9NUV7
+SRC	13	SYN	SYN(1),INT(10),UT3(1),2KD(1)		5603	http://www.ncbi.nlm.nih.gov/pubmed?term=SRC[TIAB] AND cancer[MH]	P12931[WEB:]https://www.uniprot.org/uniprot/P12931
+SRSF6	8	INT	INT(2),UT3(1),2KU(2),2KD(3)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=SRSF6[TIAB] AND cancer[MH]	Q13247[WEB:]https://www.uniprot.org/uniprot/Q13247
+SRXN1	29	FSD	FSD(1),INI(1),MIS(3),SYN(2),INT(8),UT3(6),2KU(4),2KD(4)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=SRXN1[TIAB] AND cancer[MH]	Q9BYN0[WEB:]https://www.uniprot.org/uniprot/Q9BYN0
+SS18L1	173	FSD	FSD(2),MIS(1),SYN(4),UNK(1),INT(146),UT3(5),2KU(11),2KD(3)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=SS18L1[TIAB] AND cancer[MH]	O75177[WEB:]https://www.uniprot.org/uniprot/O75177
+SSTR4	5	UT3	UT3(1),2KU(3),2KD(1)		52	http://www.ncbi.nlm.nih.gov/pubmed?term=SSTR4[TIAB] AND cancer[MH]	P31391[WEB:]https://www.uniprot.org/uniprot/P31391
+STAU1	105	MIS	MIS(3),SYN(3),INT(93),UT3(2),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=STAU1[TIAB] AND cancer[MH]	O95793[WEB:]https://www.uniprot.org/uniprot/O95793
+STK35	86	FSI	FSI(1),MIS(2),INT(65),UT3(11),2KU(1),2KD(6)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=STK35[TIAB] AND cancer[TIAB]	Q8TDR2[WEB:]https://www.uniprot.org/uniprot/Q8TDR2
+STK4	144	MIS	MIS(1),INT(120),UT5(1),UT3(14),2KU(2),2KD(6)		7	http://www.ncbi.nlm.nih.gov/pubmed?term=STK4[TIAB] AND cancer[MH]	Q13043[WEB:]https://www.uniprot.org/uniprot/Q13043
+STX16	114	SYN	SYN(1),INT(90),UT3(15),2KU(4),2KD(4)				O14662[WEB:]https://www.uniprot.org/uniprot/O14662
+SULF2	169	SYN	SYN(1),INT(160),UT5(1),UT3(1),2KU(2),2KD(4)		24	http://www.ncbi.nlm.nih.gov/pubmed?term=SULF2[TIAB] AND cancer[MH]	Q8IWU5[WEB:]https://www.uniprot.org/uniprot/Q8IWU5
+SUN5	37	MIS	MIS(2),SYN(1),INT(30),2KU(4)				Q8TC36[WEB:]https://www.uniprot.org/uniprot/Q8TC36
+SYCP2	272	FSI	FSI(2),FSD(1),STG(2),MIS(8),SYN(9),INT(236),UT3(2),2KU(4),2KD(8)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=SYCP2[TIAB] AND cancer[MH]	Q9BX26[WEB:]https://www.uniprot.org/uniprot/Q9BX26
+SYNDIG1	200	SYN	SYN(1),INT(196),2KU(3)				Q9H7V2[WEB:]https://www.uniprot.org/uniprot/Q9H7V2
+SYS1	64	SPL	SPL(1),SYN(1),INT(43),UT3(13),2KU(2),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=SYS1[TIAB] AND cancer[MH]	Q8N2H4[WEB:]https://www.uniprot.org/uniprot/Q8N2H4
+TAF4	234	MIS	MIS(4),SYN(3),INT(216),UT3(2),2KU(6),2KD(3)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TAF4[TIAB] AND cancer[MH]	O00268[WEB:]https://www.uniprot.org/uniprot/O00268
+TASP1	285	MIS	MIS(3),INT(276),UT5(1),UT3(1),2KU(3),2KD(1)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TASP1[TIAB] AND cancer[MH]	Q9H6P5[WEB:]https://www.uniprot.org/uniprot/Q9H6P5
+TBC1D20	83	SYN	SYN(1),INT(61),UT3(4),2KU(2),2KD(15)				Q96BZ9[WEB:]https://www.uniprot.org/uniprot/Q96BZ9
+TCF15	25	MIS	MIS(1),SYN(1),INT(14),UT5(1),UT3(1),2KU(6),2KD(1)				Q12870[WEB:]https://www.uniprot.org/uniprot/Q12870
+TCFL5	38	MIS	MIS(2),INT(26),UT3(2),2KU(3),2KD(5)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=TCFL5[TIAB] AND cancer[MH]	Q9UL49[WEB:]https://www.uniprot.org/uniprot/Q9UL49
+TFAP2C	36	FSI	FSI(2),MIS(3),SYN(1),INT(16),UT3(1),2KU(10),2KD(3)		347	http://www.ncbi.nlm.nih.gov/pubmed?term=TFAP2C[MH] AND cancer[MH]	Q92754[WEB:]https://www.uniprot.org/uniprot/Q92754
+TGIF2	46	INT	INT(34),UT3(4),2KU(4),2KD(4)		6	http://www.ncbi.nlm.nih.gov/pubmed?term=TGIF2[TIAB] AND cancer[MH]	Q9GZN2[WEB:]https://www.uniprot.org/uniprot/Q9GZN2
+TGIF2-C20orf24	62	INT	INT(60),2KU(1),2KD(1)				
+TGM2	70	STG	STG(1),MIS(2),SYN(2),INT(57),UT3(5),2KU(2),2KD(1)		25	http://www.ncbi.nlm.nih.gov/pubmed?term=TGM2[TIAB] AND cancer[MH]	P21980[WEB:]https://www.uniprot.org/uniprot/P21980
+TGM3	153	MIS	MIS(3),SYN(1),INT(119),UT3(8),2KU(1),2KD(21)		12	http://www.ncbi.nlm.nih.gov/pubmed?term=TGM3[TIAB] AND cancer[MH]	Q08188[WEB:]https://www.uniprot.org/uniprot/Q08188
+TGM6	70	SYN	SYN(2),INT(59),UT3(1),2KU(3),2KD(5)				O95932[WEB:]https://www.uniprot.org/uniprot/O95932
+THBD	14	MIS	MIS(2),UT5(1),UT3(2),2KU(7),2KD(2)		14	http://www.ncbi.nlm.nih.gov/pubmed?term=THBD[TIAB] AND cancer[MH]	P07204[WEB:]https://www.uniprot.org/uniprot/P07204
+TLDC2	48	SPL	SPL(1),SYN(1),INT(39),UT5(1),UT3(1),2KU(3),2KD(2)				A0PJX2[WEB:]https://www.uniprot.org/uniprot/A0PJX2
+TM9SF4	56	STG	STG(1),MIS(1),SYN(1),INT(48),UT5(1),UT3(1),2KU(1),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TM9SF4[TIAB] AND cancer[MH]	Q92544[WEB:]https://www.uniprot.org/uniprot/Q92544
+TMC2	385	FSI	FSI(1),MIS(5),SYN(4),INT(371),2KU(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=TMC2[TIAB] AND cancer[MH]	Q8TDI7[WEB:]https://www.uniprot.org/uniprot/Q8TDI7
+TMEM189	77	INT	INT(60),UT3(13),2KU(3),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=TMEM189[TIAB] AND cancer[MH]	A5PLL7[WEB:]https://www.uniprot.org/uniprot/A5PLL7
+TMEM189-UBE2V1	163	MIS	MIS(1),INT(150),UT3(6),2KU(3),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=TMEM189-UBE2V1[TIAB] AND cancer[MH]	
+TMEM230	77	SYN	SYN(1),INT(65),2KU(2),2KD(9)				Q96A57[WEB:]https://www.uniprot.org/uniprot/Q96A57
+TMEM239	7	UT3	UT3(2),2KU(4),2KD(1)				Q8WW34[WEB:]https://www.uniprot.org/uniprot/Q8WW34
+TMEM74B	4	INT	INT(1),UT5(1),2KD(2)				Q9NUR3[WEB:]https://www.uniprot.org/uniprot/Q9NUR3
+TMX4	104	SYN	SYN(2),INT(90),UT3(6),2KU(4),2KD(2)				Q9H1E5[WEB:]https://www.uniprot.org/uniprot/Q9H1E5
+TNNC2	32	MIS	MIS(1),INT(21),2KU(7),2KD(3)				P02585[WEB:]https://www.uniprot.org/uniprot/P02585
+TOMM34	38	INT	INT(26),2KU(7),2KD(5)		8	http://www.ncbi.nlm.nih.gov/pubmed?term=TOMM34[TIAB] AND cancer[MH]	Q15785[WEB:]https://www.uniprot.org/uniprot/Q15785
+TOP1	152	INT	INT(147),UT3(3),2KU(1),2KD(1)		115	http://www.ncbi.nlm.nih.gov/pubmed?term=TOP1[TIAB] AND cancer[MH]	P11387[WEB:]https://www.uniprot.org/uniprot/P11387
+TOX2	323	MIS	MIS(1),SYN(3),INT(310),UT3(1),2KU(6),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TOX2[TIAB] AND cancer[MH]	Q96NM4[WEB:]https://www.uniprot.org/uniprot/Q96NM4
+TP53INP2	15	INT	INT(5),UT3(5),2KU(3),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TP53INP2[TIAB] AND cancer[MH]	Q8IXH6[WEB:]https://www.uniprot.org/uniprot/Q8IXH6
+TP53RK	9	FSI	FSI(1),INT(4),UT3(3),2KD(1)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=TP53RK[TIAB] AND cancer[MH]	Q96S44[WEB:]https://www.uniprot.org/uniprot/Q96S44
+TP53TG5	35	INT	INT(16),UT3(9),2KU(7),2KD(3)				Q9Y2B4[WEB:]https://www.uniprot.org/uniprot/Q9Y2B4
+TPX2	164	FSD	FSD(1),STG(1),MIS(5),SYN(2),INT(145),UT5(2),2KU(2),2KD(6)		49	http://www.ncbi.nlm.nih.gov/pubmed?term=TPX2[TIAB] AND cancer[MH]	Q9ULW0[WEB:]https://www.uniprot.org/uniprot/Q9ULW0
+TRIB3	72	SPL	SPL(1),MIS(1),INT(53),UT5(2),UT3(1),2KU(10),2KD(4)		18	http://www.ncbi.nlm.nih.gov/pubmed?term=TRIB3[TIAB] AND cancer[MH]	Q96RU7[WEB:]https://www.uniprot.org/uniprot/Q96RU7
+TRMT6	20	FSI	FSI(1),SPL(1),MIS(3),INT(10),UT3(2),2KU(1),2KD(2)				Q9UJA5[WEB:]https://www.uniprot.org/uniprot/Q9UJA5
+TRPC4AP	125	SPL	SPL(1),MIS(1),INT(119),UT3(1),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=TRPC4AP[TIAB] AND cancer[MH]	Q8TEL6[WEB:]https://www.uniprot.org/uniprot/Q8TEL6
+TSHZ2	1346	FSI	FSI(2),FSD(1),MIS(8),SYN(4),INT(1294),UT5(1),UT3(29),2KU(1),2KD(6)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=TSHZ2[TIAB] AND cancer[MH]	Q9NRE2[WEB:]https://www.uniprot.org/uniprot/Q9NRE2
+TTI1	100	MIS	MIS(4),SYN(4),INT(85),2KU(5),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TTI1[TIAB] AND cancer[MH]	O43156[WEB:]https://www.uniprot.org/uniprot/O43156
+TTLL9	150	FSD	FSD(3),MIS(3),SYN(2),INT(130),2KU(4),2KD(8)				Q3SXZ7[WEB:]https://www.uniprot.org/uniprot/Q3SXZ7
+TTPAL	31	INT	INT(18),UT3(5),2KU(8)				Q9BTX7[WEB:]https://www.uniprot.org/uniprot/Q9BTX7
+TUBB1	16	MIS	MIS(1),SYN(1),INT(6),UT5(1),UT3(1),2KD(6)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=TUBB1[TIAB] AND cancer[MH]	Q9H4B7[WEB:]https://www.uniprot.org/uniprot/Q9H4B7
+UBE2C	47	SPL	SPL(1),MIS(2),INT(23),2KU(12),2KD(9)		46	http://www.ncbi.nlm.nih.gov/pubmed?term=UBE2C[TIAB] AND cancer[MH]	O00762[WEB:]https://www.uniprot.org/uniprot/O00762
+UBE2V1	87	MIS	MIS(1),INT(74),UT5(1),UT3(6),2KU(2),2KD(3)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=UBE2V1[TIAB] AND cancer[MH]	Q13404[WEB:]https://www.uniprot.org/uniprot/Q13404
+UBOX5	76	SPL	SPL(1),SYN(1),INT(65),UT3(3),2KU(4),2KD(2)				O94941[WEB:]https://www.uniprot.org/uniprot/O94941
+UQCC1	45	INT	INT(44),2KU(1)				Q9NVA1[WEB:]https://www.uniprot.org/uniprot/Q9NVA1
+VAPB	99	MIS	MIS(1),INT(81),UT5(2),UT3(9),2KU(4),2KD(2)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=VAPB[TIAB] AND cancer[MH]	O95292[WEB:]https://www.uniprot.org/uniprot/O95292
+VPS16	25	FSD	FSD(1),MIS(2),SYN(3),INT(18),2KD(1)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=VPS16[TIAB] AND cancer[MH]	Q9H269[WEB:]https://www.uniprot.org/uniprot/Q9H269
+VSTM2L	79	MIS	MIS(1),INT(71),UT3(1),2KU(4),2KD(2)				Q96N03[WEB:]https://www.uniprot.org/uniprot/Q96N03
+VSX1	31	MIS	MIS(1),INT(14),UT5(2),UT3(4),2KU(7),2KD(3)				Q9NZR4[WEB:]https://www.uniprot.org/uniprot/Q9NZR4
+WFDC10A	10	INT	INT(2),2KU(3),2KD(5)				Q9H1F0[WEB:]https://www.uniprot.org/uniprot/Q9H1F0
+WFDC10B	16	INT	INT(11),2KU(5)				Q8IUB3[WEB:]https://www.uniprot.org/uniprot/Q8IUB3
+WFDC11	61	INT	INT(58),UT3(1),2KD(2)				Q8NEX6[WEB:]https://www.uniprot.org/uniprot/Q8NEX6
+WFDC12	8	FSD	FSD(1),2KU(3),2KD(4)				Q8WWY7[WEB:]https://www.uniprot.org/uniprot/Q8WWY7
+WFDC13	11	MIS	MIS(1),SYN(1),INT(8),2KU(1)				Q8IUB5[WEB:]https://www.uniprot.org/uniprot/Q8IUB5
+WFDC2	30	INT	INT(16),2KU(5),2KD(9)		15	http://www.ncbi.nlm.nih.gov/pubmed?term=WFDC2[TIAB] AND cancer[MH]	Q14508[WEB:]https://www.uniprot.org/uniprot/Q14508
+WFDC3	30	SYN	SYN(1),INT(22),2KU(6),2KD(1)				Q8IUB2[WEB:]https://www.uniprot.org/uniprot/Q8IUB2
+WFDC5	28	MIS	MIS(1),INT(13),2KU(13),2KD(1)				Q8TCV5[WEB:]https://www.uniprot.org/uniprot/Q8TCV5
+WFDC6	14	INT	INT(9),2KU(3),2KD(2)				Q9BQY6[WEB:]https://www.uniprot.org/uniprot/Q9BQY6
+WFDC8	74	MIS	MIS(2),INT(61),UT3(1),2KU(9),2KD(1)				Q8IUA0[WEB:]https://www.uniprot.org/uniprot/Q8IUA0
+WFDC9	49	INT	INT(42),2KU(5),2KD(2)				Q8NEX5[WEB:]https://www.uniprot.org/uniprot/Q8NEX5
+WISP2	38	MIS	MIS(2),SYN(1),INT(27),2KD(8)		14	http://www.ncbi.nlm.nih.gov/pubmed?term=WISP2[TIAB] AND cancer[MH]	
+XKR7	36	INT	INT(24),UT3(10),2KD(2)				Q5GH72[WEB:]https://www.uniprot.org/uniprot/Q5GH72
+XRN2	92	MIS	MIS(1),SYN(1),INT(86),2KU(3),2KD(1)		4	http://www.ncbi.nlm.nih.gov/pubmed?term=XRN2[TIAB] AND cancer[MH]	Q9H0D6[WEB:]https://www.uniprot.org/uniprot/Q9H0D6
+YWHAB	34	INT	INT(19),UT5(1),UT3(5),2KU(4),2KD(5)		5	http://www.ncbi.nlm.nih.gov/pubmed?term=YWHAB[TIAB] AND cancer[MH]	P31946[WEB:]https://www.uniprot.org/uniprot/P31946
+ZBP1	33	INT	INT(22),UT5(1),UT3(1),2KU(3),2KD(6)		9	http://www.ncbi.nlm.nih.gov/pubmed?term=ZBP1[TIAB] AND cancer[MH]	Q9H171[WEB:]https://www.uniprot.org/uniprot/Q9H171
+ZCCHC3	22	MIS	MIS(1),UT5(1),UT3(3),2KU(6),2KD(11)				Q9NUD5[WEB:]https://www.uniprot.org/uniprot/Q9NUD5
+ZFP64	312	MIS	MIS(1),SYN(6),INT(298),UT5(2),2KU(4),2KD(1)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=ZFP64[TIAB] AND cancer[MH]	Q9NPA5;Q9NTW7[WEB:]https://www.uniprot.org/uniprot/Q9NPA5;Q9NTW7
+ZHX3	295	STG	STG(1),MIS(5),SYN(3),INT(268),UT3(14),2KU(2),2KD(2)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ZHX3[TIAB] AND cancer[TIAB]	Q9H4I2[WEB:]https://www.uniprot.org/uniprot/Q9H4I2
+ZMYND8	214	FSI	FSI(1),INT(211),2KD(2)		2	http://www.ncbi.nlm.nih.gov/pubmed?term=ZMYND8[TIAB] AND cancer[MH]	Q9ULU4[WEB:]https://www.uniprot.org/uniprot/Q9ULU4
+ZNF133	67	STG	STG(1),MIS(3),INT(53),2KU(6),2KD(4)		3	http://www.ncbi.nlm.nih.gov/pubmed?term=ZNF133[TIAB] AND cancer[MH]	P52736[WEB:]https://www.uniprot.org/uniprot/P52736
+ZNF217	83	STG	STG(1),MIS(6),SYN(8),INT(62),UT5(1),UT3(2),2KU(1),2KD(2)		77	http://www.ncbi.nlm.nih.gov/pubmed?term=ZNF217[TIAB] AND cancer[MH]	O75362[WEB:]https://www.uniprot.org/uniprot/O75362
+ZNF334	23	MIS	MIS(3),SYN(3),INT(11),UT3(2),2KU(3),2KD(1)				Q9HCZ1[WEB:]https://www.uniprot.org/uniprot/Q9HCZ1
+ZNF335	23	MIS	MIS(1),INT(18),2KU(2),2KD(2)				Q9H4Z2[WEB:]https://www.uniprot.org/uniprot/Q9H4Z2
+ZNF337	65	FSD	FSD(1),MIS(2),SYN(2),INT(52),UT3(1),2KU(2),2KD(5)				Q9Y3M9[WEB:]https://www.uniprot.org/uniprot/Q9Y3M9
+ZNF341	110	MIS	MIS(1),SYN(1),INT(98),UT3(1),2KU(2),2KD(7)				Q9BYN7[WEB:]https://www.uniprot.org/uniprot/Q9BYN7
+ZNF343	83	FSD	FSD(1),MIS(1),INT(71),UT5(2),2KU(5),2KD(3)				Q6P1L6[WEB:]https://www.uniprot.org/uniprot/Q6P1L6
+ZNF831	41	INT	INT(30),UT3(9),2KU(1),2KD(1)				Q5JPB2[WEB:]https://www.uniprot.org/uniprot/Q5JPB2
+ZNFX1	105	FSI	FSI(1),STG(1),MIS(9),SYN(2),INT(83),UT3(4),2KU(1),2KD(4)		1	http://www.ncbi.nlm.nih.gov/pubmed?term=ZNFX1[TIAB] AND cancer[MH]	Q9P2E3[WEB:]https://www.uniprot.org/uniprot/Q9P2E3
+ZSWIM1	20	FSD	FSD(1),MIS(2),INT(4),UT3(3),2KU(7),2KD(3)				Q9BR11[WEB:]https://www.uniprot.org/uniprot/Q9BR11
+ZSWIM3	43	STG	STG(1),INI(1),MIS(3),SYN(3),INT(20),UT5(1),2KU(7),2KD(7)				Q96MP5[WEB:]https://www.uniprot.org/uniprot/Q96MP5
