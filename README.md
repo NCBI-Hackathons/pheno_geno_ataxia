@@ -6,7 +6,6 @@ The first step to identifying the disease phenotype modulating genes is to reduc
 
 After filtering the user can use the apriori algorithm to search for combinations of genes that are frequently identifed as having harmful mutations in individuals with the disease phenotype. The apriori algorithm may also be used to identying combinations of alleles that are frequently identified in individuals with the disease phenotype. 
 
-Gene ontology over-representation may also be calculated on the genes idenfied as likely to have harmful mutations.
 ## Features
 This program generates a web-server that allows the user to upload a `.vcf` file and analyze it using several tools ([Open-Cravat](https://github.com/KarchinLab/open-cravat/wiki), [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/), and some custom scripts.)
 ## Pre-Requisites
@@ -17,3 +16,10 @@ Requires the python package efficient-apriori which can be installed with: pip i
 ## Running the Program
 Move the `.vcf` files into the `/webapp/` directory.
 If you have e.g. `python3.7`, run `python3.7 hello.py`. This will start the web-server on `http://localhost:5000/`.
+
+
+## Future work
+> Gene ontology over-representation analysis on genes or variants identifed as likely harmful.
+> Filtering out variants in linkage-disequilibrium
+> Interactive variant filtering 
+> Saving results in a database 
