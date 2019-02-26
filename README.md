@@ -25,4 +25,5 @@ If you have e.g. `python3.7`, run `python3.7 hello.py`. This will start the web-
 Gene ontology over-representation analysis on genes or variants identifed as likely harmful.
 Filtering out variants in linkage-disequilibrium.
 Interactive variant filtering. 
-Saving results in a database. 
+Saving results in a database.
+Incorporate genomic information from family members.
