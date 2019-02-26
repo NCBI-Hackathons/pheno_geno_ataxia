@@ -4,6 +4,7 @@ This program generates a web-server that allows the user to upload a `.vcf` file
 ## Pre-Requisites
 Need to have Python > 3.5.
 Install Open-Cravat, ANNOVAR, Flask.
+Requires the python package efficient-apriori which can be installed with: pip install efficient-apriori
 
 ## Running the Program
 Move the `.vcf` files into the `/webapp/` directory.
