@@ -1,3 +1,5 @@
+# usage: extract_data_from_sqlite.py path/to/file.sqlite path/to/output/dir/.out
+
 import sqlite3
 import pandas as pd
 def sqlite_to_tsv(dbfile,outfile):

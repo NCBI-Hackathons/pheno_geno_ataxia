@@ -13,7 +13,7 @@ This program generates a web-server that allows the user to upload a `.vcf` file
 ## Pre-Requisites
 Need to have Python >= 3.5. Install most of the prerequisites through `pip`:
 ```
-pip3 install open-cravat flask efficient-apriori
+pip3 install open-cravat flask efficient-apriori pandas
 cravat-admin install-base
 ```
 Download and install [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/download/).
