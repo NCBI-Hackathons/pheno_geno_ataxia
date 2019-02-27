@@ -8,6 +8,7 @@ import threading
 import errno
 import sqlite3
 import csv
+import pandas as pd
 
 
 @app.route("/")
@@ -46,11 +47,25 @@ def analysis():
             t.start()
         for t in threads:
             t.join()
+        if result.get("maxVal") is None:
+          min_score = float(result.get("minVal"))
+          varianceFile = str(round(result.get("minVal"), 2)) + ".tsv"
+        else:
+          min_score = float(result.get("minVal"))
+          max_score = float(result.get("maxVal"))
+          varianceFile = str(round(min_score, 2)) + "-" + str(round(max_score, 2)) + ".tsv"
+
         sqlName = result.get("dataFile") + ".sqlite"
         sqlite_to_tsv(sqlName,"cravat.tsv")
+        df = pd.DataFrame.from_csv("cravat.tsv", sep='\t')
+        print(df.get_row(0))
+        df1 = pd.DataFrame.from_csv(varianceFile, sep='\t')
+        result = pd.merge(df, df1, how='outer', on=[1,"hgnc_gene"])
+        result.to_csv("FINAL.tsv", sep='\t')
         return render_template(
             "ran.html", program="All", familyID=result.get("familyID")
         )
+
 
 
 def cravat(file_name, familyID):
