@@ -8,19 +8,26 @@ from mlxtend.frequent_patterns import association_rules
 import matplotlib.pyplot as plt
 
 def create_rules():
-    dataset = [['Milk', 'Onion', 'Nutmeg', 'Kidney Beans', 'Eggs', 'Yogurt'],
-           ['Dill', 'Onion', 'Nutmeg', 'Kidney Beans', 'Eggs', 'Yogurt'],
-           ['Milk', 'Apple', 'Kidney Beans', 'Eggs'],
-           ['Milk', 'Unicorn', 'Corn', 'Kidney Beans', 'Yogurt'],
-           ['Corn', 'Onion', 'Onion', 'Kidney Beans', 'Ice cream', 'Eggs']]
 
-
+    fname = './Sample_Data/sample_variants.txt'
+    dataset = []
+    with open(fname, 'r') as fhandle:
+        lines = fhandle.readlines()
+        for line in lines:
+            if len(line) > 0:
+                patientid, genes = line.split('\t')
+                genes = genes.split(',')
+                tmp = genes[-1]
+                tmp = tmp[0:len(tmp) - 1]
+                genes[-1] = tmp
+                dataset.append(genes)
+    print(dataset)
     oht = OnehotTransactions()
     oht_ary = oht.fit(dataset).transform(dataset)
     df = pd.DataFrame(oht_ary, columns=oht.columns_)
     frequent_itemsets = apriori(df, min_support=0.6, use_colnames=True)
-    association_rules(frequent_itemsets, metric="confidence", min_threshold=0.9)
-    rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1.2)
+    association_rules(frequent_itemsets, metric="confidence", min_threshold=0.5)
+    rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1.0)
     return rules
 
 def draw_graph(rules, rules_to_show):
@@ -29,16 +36,17 @@ def draw_graph(rules, rules_to_show):
     color_map=[]
     N = 50
     colors = np.random.rand(N)
-    strs=['R0', 'R1', 'R2', 'R3', 'R4', 'R5']
+    strs=['R0', 'R1']
 
     for i in range (rules_to_show):
+        confidence = '(' + str(rules.iloc[i]['confidence']) + ')'
         G1.add_nodes_from(["R"+str(i)])
 
-    for a in rules.iloc[i]['antecedents']:
-        G1.add_nodes_from([a])
-        G1.add_edge(a, "R"+str(i), color=colors[i] , weight = 2)
+        for a in rules.iloc[i]['antecedents']:
+            G1.add_nodes_from([a])
+            G1.add_edge(a, "R"+str(i), color=colors[i] , weight = 2)
 
-    for c in rules.iloc[i]['consequents']:
+        for c in rules.iloc[i]['consequents']:
             G1.add_nodes_from([c])
             G1.add_edge("R"+str(i), c, color=colors[i],  weight=2)
 
@@ -66,6 +74,6 @@ def draw_graph(rules, rules_to_show):
 def main():
     rules = create_rules()
     print(rules.to_string())
-    draw_graph (rules, 6)
+    draw_graph (rules, 2)
 
 main()
